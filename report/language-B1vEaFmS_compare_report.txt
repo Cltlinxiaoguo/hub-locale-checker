@@ -1,0 +1,598 @@
+=== JS 提取统计 ===
+{
+  "source": "D:\\新包验证\\AI-GrandHub项目\\AI-GrandHub V1.1\\Beta\\测试记录\\翻译及词条文件对比\\new file\\language-B1vEaFmS.js",
+  "pairCountByPath": 600,
+  "uniqueZhCount": 553,
+  "zhWithMultipleEn": 9
+}
+
+=== 同一中文对应多个英文（JS 内路径不同）===
+- 中文: 闭合
+  英文候选: ['Connect', 'On']
+- 中文: 创建交互
+  英文候选: ['Create interaction', 'Interaction']
+- 中文: 下
+  英文候选: ['Bottom', 'Down']
+- 中文: 上
+  英文候选: ['Top', 'Up']
+- 中文: 断开
+  英文候选: ['Disconnect', 'Off', 'Unconnect']
+- 中文: 高电平
+  英文候选: ['High', 'High level']
+- 中文: 低电平
+  英文候选: ['Low', 'Low level']
+- 中文: 保存失败
+  英文候选: ['Save failed.', 'Saving failed.']
+- 中文: 保存成功
+  英文候选: ['Save successfully.', 'Saved successfully.']
+
+=== 标准表（Excel）词条数: 129 ===
+文件: D:\新包验证\AI-GrandHub项目\AI-GrandHub V1.1\Beta\测试记录\翻译及词条文件对比\rule file\GrandHub_AI_V1.1_新增中文词条.xlsx
+
+--- 完全一致（中文在两份中且英文相同）---
+条数: 129
+{count} 条素材未成功导入	{count} resource(s) not imported successfully.
+上一个	Previous
+上对齐	Align top
+下一个	Next
+下对齐	Align bottom
+主页	Home
+交互配置操作失败，请重试	Interaction configuration failed. Please try again.
+停止	Stop
+光圈 +	Aperture +
+光圈 -	Aperture -
+全部导入	Keep both
+关灯	Light off
+内容	Content
+刷新	Refresh
+前景	Foreground
+加载中控数据失败，请检查网络或设备连接	Failed to load central control data. Please check the network or device connection.
+单色	Solid
+卡莱特 LOGO	Colorlight logo
+取消	Cancel
+右上	Top right
+右下	Bottom right
+右对齐	Align right
+同步成功	Sync successful.
+名称	Name
+后退	Rewind
+圆角	Rounded corner
+场景	Scene
+垂直对齐	Vertical alignment
+垂直居中	Align middle
+垂直翻转	Flip vertical
+填充	Fill
+填充模式	Fill mode
+声音（蓝）	Audio (blue)
+外观	Style
+字体	Font
+字号	Font size
+导入	Import
+将设置同步至激活	Sync settings to active
+将设置同步至默认	Sync settings to default
+左上	Top left
+左下	Bottom left
+左对齐	Align left
+已选图片	Selected image
+常规	General
+开关	Switch
+开关 (白)	Switch (white)
+开灯	Light on
+循环	Loop
+快进	Fast forward
+拉伸	Stretch
+按钮属性	Button properties
+提醒	Tip
+摄像头	Camera
+播放	Play
+放大	Zoom in
+文本属性	Text properties
+无	None
+无缩放	No scaling
+无色	None
+显示	Show
+暂停	Pause
+有 {count} 张与已有素材重复，未导入	Import skipped. {count} duplicate(s) found.
+有 {count} 张素材格式不支持（仅支持 png/jpg/jpeg/bmp）	{count} resource(s) not supported. (Only png, jpg, jpeg, and bmp are supported.)
+服务器不支持该功能	Feature not supported.
+服务器内部错误	Internal server error.
+服务暂时不可用	Service temporarily unavailable.
+本地图片	Local image
+检测到导入素材存在重复项！请选择	Duplicate resources detected.
+水平对齐	Horizontal alignment
+水平居中	Align center
+水平翻转	Flip horizontal
+浅色按钮 (方)	Light square
+浅色按钮 (方)-down	Light square-down
+浅色按钮 (胶囊)	Light capsule
+浅色按钮 (胶囊)-down	Light capsule-down
+浅色按钮底 (圆)	Light circular base
+浅色按钮底 (圆)-down	Light circular base-down
+浅色标题	Light title
+浅色背景图	Light
+深色按钮 (圆)	Dark circular
+深色按钮 (圆)-down	Dark circular-down
+深色按钮 (方)	Dark square
+深色按钮 (方)-down	Dark square-down
+深色按钮 (胶囊)	Dark capsule
+深色按钮 (胶囊)-down	Dark capsule-down
+深色标题	Dark title
+深色背景图	Dark
+渐变	Gradient
+渐变按钮	Gradient button
+渐变标题	Gradient title
+渐变背景图	Gradient
+滑动条	Slider
+激活	Active
+直角	Square corner
+确定	OK
+等比例	Keep aspect ratio
+粗细	Width
+素材	Resource
+素材图片	Resource image
+缩小	Zoom out
+网关超时	Gateway timed out.
+网关错误	Gateway error.
+背景	Background
+自适应	Adaptive
+菜单	Menu
+装饰	Elements
+设为透明	Transparent
+请搜索	Search
+请求已取消	Request canceled.
+请求的资源不存在	Requested resource not found.
+请求超时	Request timed out.
+跳过重复，仅导入新素材	Skip duplicates and import new only
+边框	Border
+返回	Back
+透明按钮 (圆)	Transparent circular
+透明按钮 (圆)-down	Transparent circular-down
+透明按钮 (方)	Transparent square
+透明按钮 (方)-down	Transparent square-down
+透明按钮 (胶囊)	Transparent capsule
+透明按钮 (胶囊)-down	Transparent capsule-down
+重置	Reset
+重置成功	Reset successful.
+阴影	Shadow
+面板属性	Panel properties
+音乐	Music
+音量 +	Volume +
+音量 -	Volume -
+颜色	Color
+默认	Default
+
+--- 英文不一致（需按标准修正）---
+条数: 0
+
+--- JS 有、标准无 ---
+条数: 424
+0	0
+1	1
+1.5	1.5
+2	2
+3	3
+4	4
+5	5
+6	6
+7	7
+8	8
+9	9
+ASCII(GBK)	ASCII(GBK)
+ASCII(UTF-8)	ASCII(UTF-8)
+COM	COM
+COM 	COM 
+COM口	COM
+COM口数据不能为空	COM port data cannot be empty.
+ETHERNET	ETHERNET
+English	English
+GrandHub 剩余试用时间	GrandHub remaining trial time
+HEX	HEX
+I/O(输入)	I/O(Input)
+I/O口	I/O interface
+I/O口 	I/O port 
+I/O接口	I/O 
+I/O接口 (输入模式)	I/O Interface (Input Mode)
+IP已被修改，重新连接中...	IP address changed. Reconnecting...
+IR	IR
+IR口 	IR port 
+Mac地址	MAC address
+OK	OK
+OSD	OSD
+RELAY	RELAY
+RELAY Timed	RELAY Timed
+RELAY(定时)	RELAY(Timed)
+RELAY口	RELAY interface
+RELAY口 	RELAY port 
+TCP Client	TCP Client
+TCP Server	TCP Server
+TCP_Client配置失败,请检查目标服务器状态	TCP_Client configuration failed. Please check the target server status.
+TCP_Server配置失败,请检查服务器端口占用	TCP_Server configuration failed. Please check if the server port is in use.
+TCP数据指令:“{ command }”发送失败;	Failed to send TCP command "{ command }".
+UDP	UDP
+UDP数据指令:“{ command }”发送失败;	Failed to send UDP command "{ command }".
+UDP配置失败	UDP configuration failed.
+UTF-8	UTF-8
+Universe 控制系统	Universe control system
+X偏移	X offset
+Y偏移	Y offset
+body数据异常, 请求失败	Request failed: Invalid request body.
+上	Top
+上一步	Undo
+上交换板风扇	Upper switch board fan
+上传失败	Upload failed.
+上传成功	Upload successful.
+上升	Up
+下	Bottom
+下一步	Redo
+下交换板风扇	Lower switch board fan
+下发 FPGA 参数...	Sending FPGA parameters...
+下发 FPGA 参数失败	Sending FPGA parameters failed
+下发 FPGA 参数超时	Sending FPGA parameters timeout
+下发 OSD 失败	Sending OSD failed
+下发 OSD 超时	Sending OSD timeout
+下发 OSD...	Sending OSD...
+下发台标...	Sending station logo...
+下发台标失败	Sending station logo failed
+下发台标超时	Sending station logo timeout
+下发底图...	Sending background image...
+下发底图失败	Sending background image failed
+下发底图超时	Sending background image timeout
+下次不再提醒	Never show again
+下降	Down
+不保存	Discard
+不支持	Not supported
+中	Mid
+中央控制	Central Control
+中控板卡	Control board
+中速	Medium
+串口号	Serial port
+串口数据指令:“{ command }”发送失败;	Failed to send serial port command "{ command }".
+交换板连接异常，请联系技术支持	Unable to connect to the switch board. Please contact technical support.
+交换板风扇	Switch board fan
+从素材列表选择一张图片作为按钮背景图	Select an image from the material list as the button background
+会议摄像头	Conference camera
+低电平	Low level
+低速	Low
+使能	Enable
+保存	Save
+保存中...	Saving...
+保存失败	Saving failed.
+保存并离开	Save and exit
+保存成功	Saved successfully.
+信号源切换	Source switching
+值	Value
+停止位	Stop bits
+偶数	Even
+全选	Select all
+全部删除	Delete all
+公司信息	Company
+公司网址	Website
+关于	About
+关闭	Off
+关闭激活块	Close active block
+关闭非激活块	Close inactive block
+冷风	Cool
+减	Minus
+创建交互	Create interaction
+初级热点	Primary hotspot
+删除	Delete
+删除失败	Deletion failed.
+删除成功	Deleted successfully.
+删除指令后需重新进行学习，是否删除？	After deleting the instruction, you need to relearn. Do you want to delete it?
+删除选中项	Delete selected
+刷新失败	Refresh failed.
+刷新成功	Refresh successful.
+功率	Supply
+加	Plus
+加密限制	Encryption restriction
+加载	Load
+加载中	Loading...
+加载参数...	Loading parameters...
+加载参数失败	Loading parameters failed
+加载参数超时	Loading parameters timeout
+单选	Single select
+历史颜色	History Colors
+原因	Reason
+发送	Send
+发送卡列序号	Sending card No.
+右	Right
+右前腔风扇	Right-front fan
+否	No
+启用相机校正	Enable camera calibration
+命中	Hit
+四边是否画边框	Draw border
+回退	Back
+图像区域	Screen area
+图像显示	Screen display
+图片	Image
+图片填充	Image fill
+填充段颜色	Filled segment color
+声音	Sound
+复制	Copy
+外围矩形大小	Outer rectangle size
+外部设备属性配置	External properties
+多功能灯	Smart light
+多选	Multi-select
+大写锁定已打开	Caps Lock is on.
+失败	Failed
+奇数	Odd
+好的	OK
+如果	Trigger
+子板异常	Checking sub board failed
+子网掩码	Subnet mask
+字体列表	Font list
+存在已被使用的属性，删除会清除按钮相关交互，是否删除？	Some properties are in use. Deleting them will remove associated button interactions. Continue?
+学习	Learn
+定时	Timer
+定时关闭	Timer off
+客服二维码	Support QR code
+宽度	Width
+对焦方式	Focus mode
+对齐	Alignment
+导出系统日志	Export System Log
+将默认样式同步到激活态	Copy default style to active state
+就	Action
+屏幕管理	Screen
+属性	Properties
+属性配置	Properties
+左	Left
+左前腔风扇	Left-front fan
+已连接	Connected
+已连接未通电	Connected but not powered on
+已选择 {count} 张图片	Selected {count} image(s)
+帮助	Help
+序号	No.
+开关属性	Switch properties
+开关（红）	Switch (red)
+开关（蓝）	Switch (blue)
+开发者模式	Developer mode
+开启	On
+开始	Start
+开断状态	Connect status
+异常-1	Abnormal-1
+当前串口号无法打开,请检查串口占用状态重新配置	Unable to open the serial port. Please check if it is in use and reconfigure it.
+当前位置有重叠元素，请重新编辑	An element already exists in this position. Please try again.
+当前位置超出画布，请重新粘贴	Cannot paste elements outside the canvas. Please rearrange and try again.
+当前无配置属性数据，请先配置接口属性。	No properties found. Configure port properties first.
+当前未选中按钮，选中后可设置按钮交互	No button selected. Select one to configure interactions.
+当前没有可粘贴的元素，请先复制元素	There are no elements available for pasting at the moment. Please copy an element first.
+当前没有指令，点击“+”创建交互指令	No commands. Click "+" to create interaction.
+当前没有红外指令点击“+”创建或导入红外指令 	No infrared commands are currently available Click "+" to create or import infrared commands 
+当前用户	Current user
+形状	Shape
+微信扫码咨询客服	Scan for WeChat support
+微软雅黑	Microsoft YaHei
+恢复	Redo
+恢复出厂中...	Resetting...
+您的密码已被修改，请重新登录	Your password has been changed. Please log in again.
+您的账号已被删除，请重新登录	Account deleted. Please try a different account.
+成功	Successful
+我的素材	My materials
+所有网口输出	All ports output
+执行时间	Execution time
+执行频率	Execution frequency
+扫风	Swing
+投影仪	Projector
+抬起	Mouse up
+拖拽失败，面板控件不允许重叠	Drag failed: Panel controls cannot overlap.
+拼接设置	Splicing
+指令	Command
+指令不能为空	Command cannot be empty.
+指令格式	Encoding type
+指令调用失败	Command execution failed.
+指令调用成功	Command executed successfully.
+按下	Mouse down
+按钮	Button
+按钮设置	Button settings
+探测	Detect
+接口协议	Protocol
+控件	Control
+控件配置未保存，是否离开？	Are you sure you want to exit? Your changes to control configurations will be lost.
+控制模式	Control mode
+搜索	Search
+撤销	Undo
+支持	Supported
+数值无效	Invalid value
+数据位	Data bits
+文本	Text
+断开	Unconnect
+方向	Direction
+无COM数据,请检查服务器COM口	无COM数据,请检查服务器COM口
+是	Yes
+是否确认删除全部交互配置？	Are you sure you want to delete all interaction configurations?
+是否确认删除全部接口配置信息？	Are you sure you want to delete all interface configurations?
+是否确认删除全部控件?	Are you sure you want to delete all controls?
+是否确认删除所选元素？	Are you sure you want to delete the selected element(s)?
+是否确认删除该接口配置信息？	Are you sure you want to delete this interface configuration?
+是否进入开发者模式？	Do you want to enable developer mode?
+是否进入控制模式？	Do you want to enter the control mode?
+暂无内容	No data available.
+暂无数据	No data
+暖风	Heat
+更多	More
+更多功能	More
+最大化	Maximize
+服务器IP地址	Server IP address
+服务器端口号	Server port
+服务器连接已断开，请重新连接	The server connection has been disconnected, please reconnect
+服务热线	Phone
+未检测到中控子板，请检查板卡连接状态	No board is detected. Please check the board connection status
+未知错误	Unknown error.
+未连接	Not connected
+未配置控件，请进入编辑模式配置控件后使用	No controls available. Enter edit mode to configure controls before use.
+本地IP地址	Local IP address
+本地端口号	Local port
+板卡参数	Board params
+板卡型号	Board model
+校验位	Parity
+梯形矫正	Keystone correction
+检查子板...	Checking sub board...
+检查子板超时	Checking sub board timeout
+检查背板...	Checking back board...
+检查背板超时	Checking back board timeout
+棋盘格	Checkerboard
+模式	Mode
+模板	Template
+横向	Horizontal
+次级热点	Secondary hotspot
+此网站不适用于Internet Explorer，建议您使用其他浏览器	This website is not supported by Internet Explorer, please use another browser.
+此设备不支持相机校对功能	This device does not support camera calibration.
+步长	Step size
+每周一	Every monday
+每周三	Every wednesday
+每周二	Every tuesday
+每周五	Every friday
+每周六	Every saturday
+每周四	Every thursday
+每周日	Every sunday
+每天	Every day
+沒有可用屏幕	No screen available.
+波特率	Baud rate
+测试	Test
+浏览器本地存储空间不足，素材列表无法保存；当前素材仍可使用，但刷新页面后可能丢失。请删除部分素材或改用较小的图片。	Browser storage is full; the material list could not be saved. You can still use materials in this session, but they may be lost after refresh. Remove some materials or use smaller images.
+添加	Add
+添加失败	Added failed.
+添加成功	Added successfully.
+添加执行指令	Add command
+清空	Clear
+清除	Clear
+清除已设置的背景图，恢复为背景颜色	Clear the set background image and revert to background color
+温度	Temp
+滑动条属性	Slider properties
+滑块	Thumb
+滑槽	Track
+激活状态	Activated
+激活状态时通过	When active
+点击	On click
+点击上方添加按钮 “+” 创建	Click the "+" button to get started.
+点击或拖拽选择图片	Click or drag to select images
+环境温度	Ambient temperature
+用户	User
+电动幕布	Smart projector screen
+电动窗帘	Motorized curtain
+电平状态	Electric level status
+电源	Power
+电源温度	Power temperature
+电视机	Television
+登录凭证无效，请重新登录	Token invalid. Please log in again.
+监听	On listen
+监听到高电平调用	Listen to high level call
+目标IP地址	Destination IP address
+目标端口号	Destination port
+相机校正	Camera calibration
+睡眠	Sleep
+矩形	Rect
+确认	Confirm
+确认导入	Confirm import
+禁止	Disable
+离开	Exit
+空调	Air conditioner
+简体中文	简体中文
+类型	Type
+粘贴	Paste
+粘贴失败，面板控件不允许重叠	Paste failed: Panel controls cannot overlap.
+粘贴失败，面板控件没有可粘贴的区域	Paste failed: Panel controls have no pastable area.
+系统时间	System time
+红外指令列表	Infrared command list
+红色	Red
+纵向	Vertical
+绿色	Green
+编译序号	Build No.
+编译时间	Built at
+编译时间：	Built at: 
+编辑	Edit
+编辑交互	Edit interaction
+编辑命令	Edit command
+编辑模式	Edit mode
+网关	Gateway
+网口	ETHERNET
+网口 	ETHERNET 
+网络模式	Network mode
+背板异常	Checking back board failed
+自动	Auto
+自定义	Custom
+获取完整功能与专业技术支持服务。	to get complete functions and professional technical support services.
+蓝色	Blue
+触发动作	Trigger action
+设备启动中，请稍候...	Device is starting up...
+设备启动失败，请尝试重新启动或联系技术支持人员	Device startup failed. Please try restarting or contact technical support.
+设备已恢复出厂设置，请重新登录	Factory reset successful. Please log in again.
+设备已恢复备份数据，请重新登录	Backup restored successfully. Please log in again.
+设备已重启，请重新登录	Session expired. Please log in again.
+设备温度	Device temperature
+设备状态	Device status
+设备管理	Device
+设备连接已断开，请重新登录	Device disconnection. Please log in again.
+设备重连中...	Reconnecting to network...
+设置失败	Setting failed.
+设置成功	Setting successful.
+试用已结束，请激活使用	Your trial has expired. Please activate GrandHub to continue.
+试用时间已到期！	Your trial has expired.
+该名称已存在，请修改名称	Duplicate SDK name. Please use a different name.
+该属性已被使用，删除会清除按钮相关交互，是否删除？	This property is in use. Deleting it will remove associated button interactions. Continue?
+该按钮未配置交互指令，请开启编辑模式配置	No interaction is configured. Enable edit mode to set it up.
+该配置属性已存在，不可重复配置	This property already exists and cannot be configured again.
+该配置已被使用，继续删除会删除相关控件绑定，是否继续？	This configuration is in use. Deleting it will remove associated controls. Continue?
+详情	Detail
+语言	Language
+请从左侧资源列表拖拽模板、控件至编辑区使用	Drag templates or controls from Resources on the left to the editing area.
+请访问	Please visit
+请输入HEX指令 (例如: 48 65 6C 6C 6F)	Enter HEX command (e.g., 48 65 6C 6C 6F)
+请输入指令	Enter command
+请输入波特率	Enter baud rate
+请选择	Please select
+请选择图片	Please select an image
+账号已停用，请联系管理员	Account disabled. Please contact the administrator.
+账号已在其它地点登录，如非本人操作，请尽快修改密码	The account has been logged in in another location, if it is not operated by yourself, please change the password as soon as possible
+资源列表	Resources
+超强	Turbo
+跟随系统	Follow system
+转速	Speed
+软件模式	Software mode
+软件版本	Version
+输入配置	Input
+边框颜色	Border color
+还原	Restore
+连接状态	Status
+退出	Exit
+送风	Fan
+通过	By
+速度	Speed
+邮箱留言	Email
+配置网络...	Configuring network...
+配置网络失败	Configuring network failed
+配置网络超时	Configuring network timeout
+重命名	Rename
+重复	Repeat
+长按	Long press
+长期	Long time
+闭合	On
+除湿	Dry
+静音	Mute
+非激活	Inactive
+非激活状态时通过	When inactive
+面板	Panel
+音频处理器	Audio processor
+音频管理	Audio
+预监回显	PreviewEcho
+预置位	Preset
+预置颜色	Preset Colors
+频道	Channel
+颜色填充	Color fill
+风向	Airflow
+风扇	Fan
+风扇位置	Fan position
+风扇类型	Fan model
+风扇转速	Fan speed
+风速	Fan speed
+高电平	High level
+高级修缝	Advanced seam correction
+高级设置	Advanced
+高速	High
+默认素材	Built-in materials
+
+--- 标准有、JS 无 ---
+条数: 0
+
+=== 一句话总结 ===
+JS 按路径中英配对 600 条，去重中文 553 条。 与标准表 129 条对比：完全一致 129，英文不一致 0，仅 JS 有 424，仅标准有 0。

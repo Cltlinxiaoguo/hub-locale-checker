@@ -1,0 +1,17 @@
+{
+  "_说明": "new file=待提取的 JS；rule file=标准对照 xlsx；report=生成的 json/报告/xlsx",
+  "paths": {
+    "js_dir": "new file",
+    "js_file": "language-B1vEaFmS.js",
+    "rule_dir": "rule file",
+    "standard_xlsx": "GrandHub_AI_V1.1_新增中文词条.xlsx",
+    "output_dir": "report"
+  },
+  "output": {
+    "xlsx_add_timestamp": true,
+    "timestamp_format": "%Y%m%d_%H%M%S"
+  },
+  "compare": {
+    "enabled": true
+  }
+}

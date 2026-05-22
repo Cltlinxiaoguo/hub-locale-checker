@@ -1,0 +1,3670 @@
+{
+  "meta": {
+    "source": "D:\\新包验证\\AI-GrandHub项目\\AI-GrandHub V1.1\\Beta\\测试记录\\翻译及词条文件对比\\new file\\language-B1vEaFmS.js",
+    "pairCountByPath": 600,
+    "uniqueZhCount": 553,
+    "zhWithMultipleEn": 9
+  },
+  "pairsByPath": [
+    {
+      "path": "centralControl.IoInput",
+      "zh": "I/O(输入)",
+      "en": "I/O(Input)"
+    },
+    {
+      "path": "centralControl.add",
+      "zh": "添加",
+      "en": "Add"
+    },
+    {
+      "path": "centralControl.addCommand",
+      "zh": "添加执行指令",
+      "en": "Add command"
+    },
+    {
+      "path": "centralControl.airConditioner",
+      "zh": "空调",
+      "en": "Air conditioner"
+    },
+    {
+      "path": "centralControl.alignBottom",
+      "zh": "下对齐",
+      "en": "Align bottom"
+    },
+    {
+      "path": "centralControl.alignCenter",
+      "zh": "水平居中",
+      "en": "Align center"
+    },
+    {
+      "path": "centralControl.alignLeft",
+      "zh": "左对齐",
+      "en": "Align left"
+    },
+    {
+      "path": "centralControl.alignMiddle",
+      "zh": "垂直居中",
+      "en": "Align middle"
+    },
+    {
+      "path": "centralControl.alignRight",
+      "zh": "右对齐",
+      "en": "Align right"
+    },
+    {
+      "path": "centralControl.alignTop",
+      "zh": "上对齐",
+      "en": "Align top"
+    },
+    {
+      "path": "centralControl.allSelect",
+      "zh": "全选",
+      "en": "Select all"
+    },
+    {
+      "path": "centralControl.asciiGBK",
+      "zh": "ASCII(GBK)",
+      "en": "ASCII(GBK)"
+    },
+    {
+      "path": "centralControl.asciiUTF8",
+      "zh": "ASCII(UTF-8)",
+      "en": "ASCII(UTF-8)"
+    },
+    {
+      "path": "centralControl.attributesConfig",
+      "zh": "属性配置",
+      "en": "Properties"
+    },
+    {
+      "path": "centralControl.attributesConfigButton",
+      "zh": "外部设备属性配置",
+      "en": "External properties"
+    },
+    {
+      "path": "centralControl.audioProcessor",
+      "zh": "音频处理器",
+      "en": "Audio processor"
+    },
+    {
+      "path": "centralControl.baudRate",
+      "zh": "波特率",
+      "en": "Baud rate"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonBkgBlurry",
+      "zh": "前景",
+      "en": "Foreground"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonBottomLeft",
+      "zh": "左下",
+      "en": "Bottom left"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonBottomRight",
+      "zh": "右下",
+      "en": "Bottom right"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonCharacterBlurry",
+      "zh": "背景",
+      "en": "Background"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonFocusOff",
+      "zh": "光圈 -",
+      "en": "Aperture -"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonFocusOn",
+      "zh": "光圈 +",
+      "en": "Aperture +"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonHorizontalFlip",
+      "zh": "水平翻转",
+      "en": "Flip horizontal"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonLoop",
+      "zh": "循环",
+      "en": "Loop"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonTopLeft",
+      "zh": "左上",
+      "en": "Top left"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonTopRight",
+      "zh": "右上",
+      "en": "Top right"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonVerticalFlip",
+      "zh": "垂直翻转",
+      "en": "Flip vertical"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonZoomIntensification",
+      "zh": "放大",
+      "en": "Zoom in"
+    },
+    {
+      "path": "centralControl.builtinDeviceButtonZoomReduction",
+      "zh": "缩小",
+      "en": "Zoom out"
+    },
+    {
+      "path": "centralControl.builtinMaterialCamera",
+      "zh": "摄像头",
+      "en": "Camera"
+    },
+    {
+      "path": "centralControl.builtinMaterialFastForward",
+      "zh": "快进",
+      "en": "Fast forward"
+    },
+    {
+      "path": "centralControl.builtinMaterialHome",
+      "zh": "主页",
+      "en": "Home"
+    },
+    {
+      "path": "centralControl.builtinMaterialLightOff",
+      "zh": "关灯",
+      "en": "Light off"
+    },
+    {
+      "path": "centralControl.builtinMaterialLightOn",
+      "zh": "开灯",
+      "en": "Light on"
+    },
+    {
+      "path": "centralControl.builtinMaterialMediaStop",
+      "zh": "停止",
+      "en": "Stop"
+    },
+    {
+      "path": "centralControl.builtinMaterialMenu",
+      "zh": "菜单",
+      "en": "Menu"
+    },
+    {
+      "path": "centralControl.builtinMaterialMusic",
+      "zh": "音乐",
+      "en": "Music"
+    },
+    {
+      "path": "centralControl.builtinMaterialNavBack",
+      "zh": "后退",
+      "en": "Rewind"
+    },
+    {
+      "path": "centralControl.builtinMaterialNavNext",
+      "zh": "下一个",
+      "en": "Next"
+    },
+    {
+      "path": "centralControl.builtinMaterialNavPrevious",
+      "zh": "上一个",
+      "en": "Previous"
+    },
+    {
+      "path": "centralControl.builtinMaterialNavReturn",
+      "zh": "返回",
+      "en": "Back"
+    },
+    {
+      "path": "centralControl.builtinMaterialPlaybackPause",
+      "zh": "暂停",
+      "en": "Pause"
+    },
+    {
+      "path": "centralControl.builtinMaterialPlaybackPlay",
+      "zh": "播放",
+      "en": "Play"
+    },
+    {
+      "path": "centralControl.builtinMaterialRefresh",
+      "zh": "刷新",
+      "en": "Refresh"
+    },
+    {
+      "path": "centralControl.builtinMaterialScene",
+      "zh": "场景",
+      "en": "Scene"
+    },
+    {
+      "path": "centralControl.builtinMaterialSoundBlue",
+      "zh": "声音（蓝）",
+      "en": "Audio (blue)"
+    },
+    {
+      "path": "centralControl.builtinMaterialSwitchWhite",
+      "zh": "开关 (白)",
+      "en": "Switch (white)"
+    },
+    {
+      "path": "centralControl.builtinMaterialVolumeDown",
+      "zh": "音量 -",
+      "en": "Volume -"
+    },
+    {
+      "path": "centralControl.builtinMaterialVolumeUp",
+      "zh": "音量 +",
+      "en": "Volume +"
+    },
+    {
+      "path": "centralControl.button",
+      "zh": "按钮",
+      "en": "Button"
+    },
+    {
+      "path": "centralControl.buttonProps",
+      "zh": "按钮属性",
+      "en": "Button properties"
+    },
+    {
+      "path": "centralControl.buttonSetting",
+      "zh": "按钮设置",
+      "en": "Button settings"
+    },
+    {
+      "path": "centralControl.cancel",
+      "zh": "取消",
+      "en": "Cancel"
+    },
+    {
+      "path": "centralControl.checkLabel",
+      "zh": "校验位",
+      "en": "Parity"
+    },
+    {
+      "path": "centralControl.click",
+      "zh": "点击",
+      "en": "On click"
+    },
+    {
+      "path": "centralControl.close",
+      "zh": "开关（红）",
+      "en": "Switch (red)"
+    },
+    {
+      "path": "centralControl.closeActiveBlock",
+      "zh": "关闭激活块",
+      "en": "Close active block"
+    },
+    {
+      "path": "centralControl.closeInactiveBlock",
+      "zh": "关闭非激活块",
+      "en": "Close inactive block"
+    },
+    {
+      "path": "centralControl.com",
+      "zh": "COM",
+      "en": "COM"
+    },
+    {
+      "path": "centralControl.comInfo",
+      "zh": "COM口",
+      "en": "COM"
+    },
+    {
+      "path": "centralControl.comInfoPlaceholder",
+      "zh": "请输入指令",
+      "en": "Enter command"
+    },
+    {
+      "path": "centralControl.comOrder",
+      "zh": "串口号",
+      "en": "Serial port"
+    },
+    {
+      "path": "centralControl.comPopper",
+      "zh": "COM ",
+      "en": "COM "
+    },
+    {
+      "path": "centralControl.commandName",
+      "zh": "指令",
+      "en": "Command"
+    },
+    {
+      "path": "centralControl.conferenceCamera",
+      "zh": "会议摄像头",
+      "en": "Conference camera"
+    },
+    {
+      "path": "centralControl.configDelete",
+      "zh": "删除",
+      "en": "Delete"
+    },
+    {
+      "path": "centralControl.configDeleteAll",
+      "zh": "全部删除",
+      "en": "Delete all"
+    },
+    {
+      "path": "centralControl.configEdit",
+      "zh": "编辑",
+      "en": "Edit"
+    },
+    {
+      "path": "centralControl.configName",
+      "zh": "名称",
+      "en": "Name"
+    },
+    {
+      "path": "centralControl.configType",
+      "zh": "类型",
+      "en": "Type"
+    },
+    {
+      "path": "centralControl.confirm",
+      "zh": "确认",
+      "en": "Confirm"
+    },
+    {
+      "path": "centralControl.confirmImport",
+      "zh": "确认导入",
+      "en": "Confirm import"
+    },
+    {
+      "path": "centralControl.connect",
+      "zh": "闭合",
+      "en": "Connect"
+    },
+    {
+      "path": "centralControl.contentEmptyError",
+      "zh": "指令不能为空",
+      "en": "Command cannot be empty."
+    },
+    {
+      "path": "centralControl.controlBoard",
+      "zh": "中控板卡",
+      "en": "Control board"
+    },
+    {
+      "path": "centralControl.controlTitle",
+      "zh": "板卡参数",
+      "en": "Board params"
+    },
+    {
+      "path": "centralControl.copy",
+      "zh": "复制",
+      "en": "Copy"
+    },
+    {
+      "path": "centralControl.copyOverlayErrorTips",
+      "zh": "粘贴失败，面板控件不允许重叠",
+      "en": "Paste failed: Panel controls cannot overlap."
+    },
+    {
+      "path": "centralControl.create",
+      "zh": "创建交互",
+      "en": "Interaction"
+    },
+    {
+      "path": "centralControl.createInteraction",
+      "zh": "创建交互",
+      "en": "Create interaction"
+    },
+    {
+      "path": "centralControl.custom",
+      "zh": "自定义",
+      "en": "Custom"
+    },
+    {
+      "path": "centralControl.customBaudRatePlaceholder",
+      "zh": "请输入波特率",
+      "en": "Enter baud rate"
+    },
+    {
+      "path": "centralControl.customButton",
+      "zh": "控件",
+      "en": "Control"
+    },
+    {
+      "path": "centralControl.defaultFont",
+      "zh": "微软雅黑",
+      "en": "Microsoft YaHei"
+    },
+    {
+      "path": "centralControl.delete",
+      "zh": "删除",
+      "en": "Delete"
+    },
+    {
+      "path": "centralControl.deleteAll",
+      "zh": "清空",
+      "en": "Clear"
+    },
+    {
+      "path": "centralControl.deleteAllConfigInUse",
+      "zh": "存在已被使用的属性，删除会清除按钮相关交互，是否删除？",
+      "en": "Some properties are in use. Deleting them will remove associated button interactions. Continue?"
+    },
+    {
+      "path": "centralControl.deleteAllConfirm",
+      "zh": "是否确认删除全部接口配置信息？",
+      "en": "Are you sure you want to delete all interface configurations?"
+    },
+    {
+      "path": "centralControl.deleteAllInteraction",
+      "zh": "清空",
+      "en": "Clear"
+    },
+    {
+      "path": "centralControl.deleteAllInteractionTips",
+      "zh": "是否确认删除全部交互配置？",
+      "en": "Are you sure you want to delete all interaction configurations?"
+    },
+    {
+      "path": "centralControl.deleteAllTips",
+      "zh": "是否确认删除全部控件?",
+      "en": "Are you sure you want to delete all controls?"
+    },
+    {
+      "path": "centralControl.deleteConfigInUse",
+      "zh": "该属性已被使用，删除会清除按钮相关交互，是否删除？",
+      "en": "This property is in use. Deleting it will remove associated button interactions. Continue?"
+    },
+    {
+      "path": "centralControl.deleteConfirm",
+      "zh": "是否确认删除该接口配置信息？",
+      "en": "Are you sure you want to delete this interface configuration?"
+    },
+    {
+      "path": "centralControl.deleteConfirmText",
+      "zh": "删除指令后需重新进行学习，是否删除？",
+      "en": "After deleting the instruction, you need to relearn. Do you want to delete it?"
+    },
+    {
+      "path": "centralControl.deleteSelected",
+      "zh": "删除选中项",
+      "en": "Delete selected"
+    },
+    {
+      "path": "centralControl.deleteTips",
+      "zh": "是否确认删除所选元素？",
+      "en": "Are you sure you want to delete the selected element(s)?"
+    },
+    {
+      "path": "centralControl.detail",
+      "zh": "详情",
+      "en": "Detail"
+    },
+    {
+      "path": "centralControl.device",
+      "zh": "模板",
+      "en": "Template"
+    },
+    {
+      "path": "centralControl.device_0",
+      "zh": "0",
+      "en": "0"
+    },
+    {
+      "path": "centralControl.device_1",
+      "zh": "1",
+      "en": "1"
+    },
+    {
+      "path": "centralControl.device_1_5",
+      "zh": "1.5",
+      "en": "1.5"
+    },
+    {
+      "path": "centralControl.device_2",
+      "zh": "2",
+      "en": "2"
+    },
+    {
+      "path": "centralControl.device_3",
+      "zh": "3",
+      "en": "3"
+    },
+    {
+      "path": "centralControl.device_4",
+      "zh": "4",
+      "en": "4"
+    },
+    {
+      "path": "centralControl.device_5",
+      "zh": "5",
+      "en": "5"
+    },
+    {
+      "path": "centralControl.device_6",
+      "zh": "6",
+      "en": "6"
+    },
+    {
+      "path": "centralControl.device_7",
+      "zh": "7",
+      "en": "7"
+    },
+    {
+      "path": "centralControl.device_8",
+      "zh": "8",
+      "en": "8"
+    },
+    {
+      "path": "centralControl.device_9",
+      "zh": "9",
+      "en": "9"
+    },
+    {
+      "path": "centralControl.device_airFlow",
+      "zh": "风向",
+      "en": "Airflow"
+    },
+    {
+      "path": "centralControl.device_auto",
+      "zh": "自动",
+      "en": "Auto"
+    },
+    {
+      "path": "centralControl.device_channel",
+      "zh": "频道",
+      "en": "Channel"
+    },
+    {
+      "path": "centralControl.device_close",
+      "zh": "关闭",
+      "en": "Off"
+    },
+    {
+      "path": "centralControl.device_cool",
+      "zh": "冷风",
+      "en": "Cool"
+    },
+    {
+      "path": "centralControl.device_dehumidify",
+      "zh": "除湿",
+      "en": "Dry"
+    },
+    {
+      "path": "centralControl.device_down",
+      "zh": "下降",
+      "en": "Down"
+    },
+    {
+      "path": "centralControl.device_fan",
+      "zh": "送风",
+      "en": "Fan"
+    },
+    {
+      "path": "centralControl.device_fanSpeed",
+      "zh": "风速",
+      "en": "Fan speed"
+    },
+    {
+      "path": "centralControl.device_focusMode",
+      "zh": "对焦方式",
+      "en": "Focus mode"
+    },
+    {
+      "path": "centralControl.device_hot",
+      "zh": "暖风",
+      "en": "Heat"
+    },
+    {
+      "path": "centralControl.device_keystoneCorrection",
+      "zh": "梯形矫正",
+      "en": "Keystone correction"
+    },
+    {
+      "path": "centralControl.device_main",
+      "zh": "主页",
+      "en": "Home"
+    },
+    {
+      "path": "centralControl.device_menu",
+      "zh": "菜单",
+      "en": "Menu"
+    },
+    {
+      "path": "centralControl.device_mode",
+      "zh": "模式",
+      "en": "Mode"
+    },
+    {
+      "path": "centralControl.device_ok",
+      "zh": "OK",
+      "en": "OK"
+    },
+    {
+      "path": "centralControl.device_open",
+      "zh": "开启",
+      "en": "On"
+    },
+    {
+      "path": "centralControl.device_osd",
+      "zh": "OSD",
+      "en": "OSD"
+    },
+    {
+      "path": "centralControl.device_preset",
+      "zh": "预置位",
+      "en": "Preset"
+    },
+    {
+      "path": "centralControl.device_return",
+      "zh": "回退",
+      "en": "Back"
+    },
+    {
+      "path": "centralControl.device_sleep",
+      "zh": "睡眠",
+      "en": "Sleep"
+    },
+    {
+      "path": "centralControl.device_sourceSwitching",
+      "zh": "信号源切换",
+      "en": "Source switching"
+    },
+    {
+      "path": "centralControl.device_speed",
+      "zh": "速度",
+      "en": "Speed"
+    },
+    {
+      "path": "centralControl.device_stop",
+      "zh": "停止",
+      "en": "Stop"
+    },
+    {
+      "path": "centralControl.device_temperature",
+      "zh": "温度",
+      "en": "Temp"
+    },
+    {
+      "path": "centralControl.device_timedClosed",
+      "zh": "定时关闭",
+      "en": "Timer off"
+    },
+    {
+      "path": "centralControl.device_turbo",
+      "zh": "超强",
+      "en": "Turbo"
+    },
+    {
+      "path": "centralControl.device_up",
+      "zh": "上升",
+      "en": "Up"
+    },
+    {
+      "path": "centralControl.device_wind_down",
+      "zh": "下",
+      "en": "Down"
+    },
+    {
+      "path": "centralControl.device_wind_middle",
+      "zh": "中",
+      "en": "Mid"
+    },
+    {
+      "path": "centralControl.device_wind_sweep",
+      "zh": "扫风",
+      "en": "Swing"
+    },
+    {
+      "path": "centralControl.device_wind_up",
+      "zh": "上",
+      "en": "Up"
+    },
+    {
+      "path": "centralControl.directionHorizontal",
+      "zh": "横向",
+      "en": "Horizontal"
+    },
+    {
+      "path": "centralControl.directionVertical",
+      "zh": "纵向",
+      "en": "Vertical"
+    },
+    {
+      "path": "centralControl.disconnect",
+      "zh": "断开",
+      "en": "Disconnect"
+    },
+    {
+      "path": "centralControl.down",
+      "zh": "下",
+      "en": "Down"
+    },
+    {
+      "path": "centralControl.edit",
+      "zh": "编辑交互",
+      "en": "Edit interaction"
+    },
+    {
+      "path": "centralControl.editAction",
+      "zh": "编辑",
+      "en": "Edit"
+    },
+    {
+      "path": "centralControl.editCommand",
+      "zh": "编辑命令",
+      "en": "Edit command"
+    },
+    {
+      "path": "centralControl.editEmptyConfig",
+      "zh": "请从左侧资源列表拖拽模板、控件至编辑区使用",
+      "en": "Drag templates or controls from Resources on the left to the editing area."
+    },
+    {
+      "path": "centralControl.editMode",
+      "zh": "编辑模式",
+      "en": "Edit mode"
+    },
+    {
+      "path": "centralControl.editOverlayErrorTips",
+      "zh": "当前位置有重叠元素，请重新编辑",
+      "en": "An element already exists in this position. Please try again."
+    },
+    {
+      "path": "centralControl.electricCurtain",
+      "zh": "电动窗帘",
+      "en": "Motorized curtain"
+    },
+    {
+      "path": "centralControl.electricLevelStatus",
+      "zh": "电平状态",
+      "en": "Electric level status"
+    },
+    {
+      "path": "centralControl.electricScreen",
+      "zh": "电动幕布",
+      "en": "Smart projector screen"
+    },
+    {
+      "path": "centralControl.element_button",
+      "zh": "按钮",
+      "en": "Button"
+    },
+    {
+      "path": "centralControl.element_rect",
+      "zh": "矩形",
+      "en": "Rect"
+    },
+    {
+      "path": "centralControl.element_text",
+      "zh": "文本",
+      "en": "Text"
+    },
+    {
+      "path": "centralControl.emptyBoard",
+      "zh": "未检测到中控子板，请检查板卡连接状态",
+      "en": "No board is detected. Please check the board connection status"
+    },
+    {
+      "path": "centralControl.emptyButtonTips",
+      "zh": "当前未选中按钮，选中后可设置按钮交互",
+      "en": "No button selected. Select one to configure interactions."
+    },
+    {
+      "path": "centralControl.emptyCommandTips",
+      "zh": "当前没有指令，点击“+”创建交互指令",
+      "en": "No commands. Click \"+\" to create interaction."
+    },
+    {
+      "path": "centralControl.emptyConfig",
+      "zh": "未配置控件，请进入编辑模式配置控件后使用",
+      "en": "No controls available. Enter edit mode to configure controls before use."
+    },
+    {
+      "path": "centralControl.emptyConfigTips",
+      "zh": "当前无配置属性数据，请先配置接口属性。",
+      "en": "No properties found. Configure port properties first."
+    },
+    {
+      "path": "centralControl.emptyInfraredListText",
+      "zh": "当前没有红外指令点击“+”创建或导入红外指令 ",
+      "en": "No infrared commands are currently available Click \"+\" to create or import infrared commands "
+    },
+    {
+      "path": "centralControl.emptyText1",
+      "zh": "暂无内容",
+      "en": "No data available."
+    },
+    {
+      "path": "centralControl.emptyText2",
+      "zh": "点击上方添加按钮 “+” 创建",
+      "en": "Click the \"+\" button to get started."
+    },
+    {
+      "path": "centralControl.encodeType",
+      "zh": "指令格式",
+      "en": "Encoding type"
+    },
+    {
+      "path": "centralControl.errorAutoCopy",
+      "zh": "粘贴失败，面板控件没有可粘贴的区域",
+      "en": "Paste failed: Panel controls have no pastable area."
+    },
+    {
+      "path": "centralControl.even",
+      "zh": "偶数",
+      "en": "Even"
+    },
+    {
+      "path": "centralControl.everyDay",
+      "zh": "每天",
+      "en": "Every day"
+    },
+    {
+      "path": "centralControl.executionFrequency",
+      "zh": "执行频率",
+      "en": "Execution frequency"
+    },
+    {
+      "path": "centralControl.executionTime",
+      "zh": "执行时间",
+      "en": "Execution time"
+    },
+    {
+      "path": "centralControl.exit",
+      "zh": "退出",
+      "en": "Exit"
+    },
+    {
+      "path": "centralControl.fillModeContain",
+      "zh": "等比例",
+      "en": "Keep aspect ratio"
+    },
+    {
+      "path": "centralControl.fillModeNone",
+      "zh": "无缩放",
+      "en": "No scaling"
+    },
+    {
+      "path": "centralControl.fillModeStretch",
+      "zh": "拉伸",
+      "en": "Stretch"
+    },
+    {
+      "path": "centralControl.fillTypeColor",
+      "zh": "颜色填充",
+      "en": "Color fill"
+    },
+    {
+      "path": "centralControl.fillTypeImage",
+      "zh": "图片填充",
+      "en": "Image fill"
+    },
+    {
+      "path": "centralControl.fontSelectListAriaLabel",
+      "zh": "字体列表",
+      "en": "Font list"
+    },
+    {
+      "path": "centralControl.friday",
+      "zh": "每周五",
+      "en": "Every friday"
+    },
+    {
+      "path": "centralControl.gateway",
+      "zh": "网关",
+      "en": "Gateway"
+    },
+    {
+      "path": "centralControl.goToControlMode",
+      "zh": "是否进入控制模式？",
+      "en": "Do you want to enter the control mode?"
+    },
+    {
+      "path": "centralControl.helpContent",
+      "zh": "获取完整功能与专业技术支持服务。",
+      "en": "to get complete functions and professional technical support services."
+    },
+    {
+      "path": "centralControl.hex",
+      "zh": "HEX",
+      "en": "HEX"
+    },
+    {
+      "path": "centralControl.hexPlaceholder",
+      "zh": "请输入HEX指令 (例如: 48 65 6C 6C 6F)",
+      "en": "Enter HEX command (e.g., 48 65 6C 6C 6F)"
+    },
+    {
+      "path": "centralControl.high",
+      "zh": "高电平",
+      "en": "High"
+    },
+    {
+      "path": "centralControl.highLevel",
+      "zh": "高电平",
+      "en": "High level"
+    },
+    {
+      "path": "centralControl.hit",
+      "zh": "命中",
+      "en": "Hit"
+    },
+    {
+      "path": "centralControl.if",
+      "zh": "如果",
+      "en": "Trigger"
+    },
+    {
+      "path": "centralControl.importAction",
+      "zh": "导入",
+      "en": "Import"
+    },
+    {
+      "path": "centralControl.infraredInfo",
+      "zh": "IR",
+      "en": "IR"
+    },
+    {
+      "path": "centralControl.infraredListText",
+      "zh": "红外指令列表",
+      "en": "Infrared command list"
+    },
+    {
+      "path": "centralControl.interactionEditFailed",
+      "zh": "交互配置操作失败，请重试",
+      "en": "Interaction configuration failed. Please try again."
+    },
+    {
+      "path": "centralControl.interfaceAgreement",
+      "zh": "接口协议",
+      "en": "Protocol"
+    },
+    {
+      "path": "centralControl.invalidComPort",
+      "zh": "COM口数据不能为空",
+      "en": "COM port data cannot be empty."
+    },
+    {
+      "path": "centralControl.ioInfo",
+      "zh": "I/O接口",
+      "en": "I/O "
+    },
+    {
+      "path": "centralControl.ioInfoListen",
+      "zh": "I/O接口 (输入模式)",
+      "en": "I/O Interface (Input Mode)"
+    },
+    {
+      "path": "centralControl.ioInterfaceText",
+      "zh": "I/O口",
+      "en": "I/O interface"
+    },
+    {
+      "path": "centralControl.ioPopper",
+      "zh": "I/O口 ",
+      "en": "I/O port "
+    },
+    {
+      "path": "centralControl.irPopper",
+      "zh": "IR口 ",
+      "en": "IR port "
+    },
+    {
+      "path": "centralControl.learn",
+      "zh": "学习",
+      "en": "Learn"
+    },
+    {
+      "path": "centralControl.leave",
+      "zh": "离开",
+      "en": "Exit"
+    },
+    {
+      "path": "centralControl.leaveScreenTips",
+      "zh": "控件配置未保存，是否离开？",
+      "en": "Are you sure you want to exit? Your changes to control configurations will be lost."
+    },
+    {
+      "path": "centralControl.left",
+      "zh": "左",
+      "en": "Left"
+    },
+    {
+      "path": "centralControl.listen",
+      "zh": "监听",
+      "en": "On listen"
+    },
+    {
+      "path": "centralControl.listenElectronLevel",
+      "zh": "监听到高电平调用",
+      "en": "Listen to high level call"
+    },
+    {
+      "path": "centralControl.loadDataFailed",
+      "zh": "加载中控数据失败，请检查网络或设备连接",
+      "en": "Failed to load central control data. Please check the network or device connection."
+    },
+    {
+      "path": "centralControl.localIpAddress",
+      "zh": "本地IP地址",
+      "en": "Local IP address"
+    },
+    {
+      "path": "centralControl.localPort",
+      "zh": "本地端口号",
+      "en": "Local port"
+    },
+    {
+      "path": "centralControl.longPress",
+      "zh": "长按",
+      "en": "Long press"
+    },
+    {
+      "path": "centralControl.longTime",
+      "zh": "长期",
+      "en": "Long time"
+    },
+    {
+      "path": "centralControl.low",
+      "zh": "低电平",
+      "en": "Low"
+    },
+    {
+      "path": "centralControl.lowLevel",
+      "zh": "低电平",
+      "en": "Low level"
+    },
+    {
+      "path": "centralControl.macAddress",
+      "zh": "Mac地址",
+      "en": "MAC address"
+    },
+    {
+      "path": "centralControl.material",
+      "zh": "素材",
+      "en": "Resource"
+    },
+    {
+      "path": "centralControl.materialDuplicateImportAll",
+      "zh": "全部导入",
+      "en": "Keep both"
+    },
+    {
+      "path": "centralControl.materialDuplicateImportBody",
+      "zh": "检测到导入素材存在重复项！请选择",
+      "en": "Duplicate resources detected."
+    },
+    {
+      "path": "centralControl.materialDuplicateImportOk",
+      "zh": "确定",
+      "en": "OK"
+    },
+    {
+      "path": "centralControl.materialDuplicateImportSkip",
+      "zh": "跳过重复，仅导入新素材",
+      "en": "Skip duplicates and import new only"
+    },
+    {
+      "path": "centralControl.materialDuplicateImportTitle",
+      "zh": "提醒",
+      "en": "Tip"
+    },
+    {
+      "path": "centralControl.materialImportDuplicate",
+      "zh": "有 {count} 张与已有素材重复，未导入",
+      "en": "Import skipped. {count} duplicate(s) found."
+    },
+    {
+      "path": "centralControl.materialImportOverflow",
+      "zh": "{count} 条素材未成功导入",
+      "en": "{count} resource(s) not imported successfully."
+    },
+    {
+      "path": "centralControl.materialImportUnsupported",
+      "zh": "有 {count} 张素材格式不支持（仅支持 png/jpg/jpeg/bmp）",
+      "en": "{count} resource(s) not supported. (Only png, jpg, jpeg, and bmp are supported.)"
+    },
+    {
+      "path": "centralControl.materialListStorageQuotaExceeded",
+      "zh": "浏览器本地存储空间不足，素材列表无法保存；当前素材仍可使用，但刷新页面后可能丢失。请删除部分素材或改用较小的图片。",
+      "en": "Browser storage is full; the material list could not be saved. You can still use materials in this session, but they may be lost after refresh. Remove some materials or use smaller images."
+    },
+    {
+      "path": "centralControl.materialPickerBuiltinTitle",
+      "zh": "默认素材",
+      "en": "Built-in materials"
+    },
+    {
+      "path": "centralControl.materialPickerCustomTitle",
+      "zh": "我的素材",
+      "en": "My materials"
+    },
+    {
+      "path": "centralControl.minus",
+      "zh": "减",
+      "en": "Minus"
+    },
+    {
+      "path": "centralControl.monday",
+      "zh": "每周一",
+      "en": "Every monday"
+    },
+    {
+      "path": "centralControl.multifunctionLamp",
+      "zh": "多功能灯",
+      "en": "Smart light"
+    },
+    {
+      "path": "centralControl.multipleChoice",
+      "zh": "多选",
+      "en": "Multi-select"
+    },
+    {
+      "path": "centralControl.name",
+      "zh": "名称",
+      "en": "Name"
+    },
+    {
+      "path": "centralControl.netPort",
+      "zh": "ETHERNET",
+      "en": "ETHERNET"
+    },
+    {
+      "path": "centralControl.netPortInfo",
+      "zh": "网口",
+      "en": "ETHERNET"
+    },
+    {
+      "path": "centralControl.netPortMode",
+      "zh": "网络模式",
+      "en": "Network mode"
+    },
+    {
+      "path": "centralControl.netPortPopper",
+      "zh": "网口 ",
+      "en": "ETHERNET "
+    },
+    {
+      "path": "centralControl.nextInfo",
+      "zh": "下次不再提醒",
+      "en": "Never show again"
+    },
+    {
+      "path": "centralControl.nextStep",
+      "zh": "下一步",
+      "en": "Redo"
+    },
+    {
+      "path": "centralControl.noConfigInteraction",
+      "zh": "该按钮未配置交互指令，请开启编辑模式配置",
+      "en": "No interaction is configured. Enable edit mode to set it up."
+    },
+    {
+      "path": "centralControl.noElementsToPaste",
+      "zh": "当前没有可粘贴的元素，请先复制元素",
+      "en": "There are no elements available for pasting at the moment. Please copy an element first."
+    },
+    {
+      "path": "centralControl.none",
+      "zh": "无",
+      "en": "None"
+    },
+    {
+      "path": "centralControl.numberLabel",
+      "zh": "数据位",
+      "en": "Data bits"
+    },
+    {
+      "path": "centralControl.odd",
+      "zh": "奇数",
+      "en": "Odd"
+    },
+    {
+      "path": "centralControl.ok",
+      "zh": "好的",
+      "en": "OK"
+    },
+    {
+      "path": "centralControl.open",
+      "zh": "开关（蓝）",
+      "en": "Switch (blue)"
+    },
+    {
+      "path": "centralControl.outOfCanvasErrorTips",
+      "zh": "当前位置超出画布，请重新粘贴",
+      "en": "Cannot paste elements outside the canvas. Please rearrange and try again."
+    },
+    {
+      "path": "centralControl.overlayErrorTips",
+      "zh": "拖拽失败，面板控件不允许重叠",
+      "en": "Drag failed: Panel controls cannot overlap."
+    },
+    {
+      "path": "centralControl.panelProps",
+      "zh": "面板属性",
+      "en": "Panel properties"
+    },
+    {
+      "path": "centralControl.pass",
+      "zh": "通过",
+      "en": "By"
+    },
+    {
+      "path": "centralControl.passWhenActive",
+      "zh": "激活状态时通过",
+      "en": "When active"
+    },
+    {
+      "path": "centralControl.passWhenInactive",
+      "zh": "非激活状态时通过",
+      "en": "When inactive"
+    },
+    {
+      "path": "centralControl.paste",
+      "zh": "粘贴",
+      "en": "Paste"
+    },
+    {
+      "path": "centralControl.pleaseVisit",
+      "zh": "请访问",
+      "en": "Please visit"
+    },
+    {
+      "path": "centralControl.plus",
+      "zh": "加",
+      "en": "Plus"
+    },
+    {
+      "path": "centralControl.presetMaterialSectionBackground",
+      "zh": "背景",
+      "en": "Background"
+    },
+    {
+      "path": "centralControl.presetMaterialSectionButton",
+      "zh": "按钮",
+      "en": "Button"
+    },
+    {
+      "path": "centralControl.presetMaterialSectionDecoration",
+      "zh": "装饰",
+      "en": "Elements"
+    },
+    {
+      "path": "centralControl.presetTrayPicColorlightLogo",
+      "zh": "卡莱特 LOGO",
+      "en": "Colorlight logo"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkBackground",
+      "zh": "深色背景图",
+      "en": "Dark"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkBtnCapsule",
+      "zh": "深色按钮 (胶囊)",
+      "en": "Dark capsule"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkBtnCapsuleDown",
+      "zh": "深色按钮 (胶囊)-down",
+      "en": "Dark capsule-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkBtnRound",
+      "zh": "深色按钮 (圆)",
+      "en": "Dark circular"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkBtnRoundDown",
+      "zh": "深色按钮 (圆)-down",
+      "en": "Dark circular-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkBtnSquare",
+      "zh": "深色按钮 (方)",
+      "en": "Dark square"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkBtnSquareDown",
+      "zh": "深色按钮 (方)-down",
+      "en": "Dark square-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicDarkTitle",
+      "zh": "深色标题",
+      "en": "Dark title"
+    },
+    {
+      "path": "centralControl.presetTrayPicGradientBackground",
+      "zh": "渐变背景图",
+      "en": "Gradient"
+    },
+    {
+      "path": "centralControl.presetTrayPicGradientButton",
+      "zh": "渐变按钮",
+      "en": "Gradient button"
+    },
+    {
+      "path": "centralControl.presetTrayPicGradientTitle",
+      "zh": "渐变标题",
+      "en": "Gradient title"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightBackground",
+      "zh": "浅色背景图",
+      "en": "Light"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightBtnBaseRound",
+      "zh": "浅色按钮底 (圆)",
+      "en": "Light circular base"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightBtnBaseRoundDown",
+      "zh": "浅色按钮底 (圆)-down",
+      "en": "Light circular base-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightBtnCapsule",
+      "zh": "浅色按钮 (胶囊)",
+      "en": "Light capsule"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightBtnCapsuleDown",
+      "zh": "浅色按钮 (胶囊)-down",
+      "en": "Light capsule-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightBtnSquare",
+      "zh": "浅色按钮 (方)",
+      "en": "Light square"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightBtnSquareDown",
+      "zh": "浅色按钮 (方)-down",
+      "en": "Light square-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicLightTitle",
+      "zh": "浅色标题",
+      "en": "Light title"
+    },
+    {
+      "path": "centralControl.presetTrayPicTransparentBtnCapsule",
+      "zh": "透明按钮 (胶囊)",
+      "en": "Transparent capsule"
+    },
+    {
+      "path": "centralControl.presetTrayPicTransparentBtnCapsuleDown",
+      "zh": "透明按钮 (胶囊)-down",
+      "en": "Transparent capsule-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicTransparentBtnRound",
+      "zh": "透明按钮 (圆)",
+      "en": "Transparent circular"
+    },
+    {
+      "path": "centralControl.presetTrayPicTransparentBtnRoundDown",
+      "zh": "透明按钮 (圆)-down",
+      "en": "Transparent circular-down"
+    },
+    {
+      "path": "centralControl.presetTrayPicTransparentBtnSquare",
+      "zh": "透明按钮 (方)",
+      "en": "Transparent square"
+    },
+    {
+      "path": "centralControl.presetTrayPicTransparentBtnSquareDown",
+      "zh": "透明按钮 (方)-down",
+      "en": "Transparent square-down"
+    },
+    {
+      "path": "centralControl.pressDown",
+      "zh": "按下",
+      "en": "Mouse down"
+    },
+    {
+      "path": "centralControl.previousStep",
+      "zh": "上一步",
+      "en": "Undo"
+    },
+    {
+      "path": "centralControl.projector",
+      "zh": "投影仪",
+      "en": "Projector"
+    },
+    {
+      "path": "centralControl.propActivated",
+      "zh": "激活状态",
+      "en": "Activated"
+    },
+    {
+      "path": "centralControl.propActivatedState",
+      "zh": "激活",
+      "en": "Active"
+    },
+    {
+      "path": "centralControl.propActive",
+      "zh": "激活",
+      "en": "Active"
+    },
+    {
+      "path": "centralControl.propAlignment",
+      "zh": "对齐",
+      "en": "Alignment"
+    },
+    {
+      "path": "centralControl.propAppearance",
+      "zh": "外观",
+      "en": "Style"
+    },
+    {
+      "path": "centralControl.propBackground",
+      "zh": "背景",
+      "en": "Background"
+    },
+    {
+      "path": "centralControl.propBackgroundAdaptive",
+      "zh": "自适应",
+      "en": "Adaptive"
+    },
+    {
+      "path": "centralControl.propBgImageDataUrlLabel",
+      "zh": "本地图片",
+      "en": "Local image"
+    },
+    {
+      "path": "centralControl.propBorder",
+      "zh": "边框",
+      "en": "Border"
+    },
+    {
+      "path": "centralControl.propBorderAppearance",
+      "zh": "外观",
+      "en": "Style"
+    },
+    {
+      "path": "centralControl.propBorderColorLabel",
+      "zh": "颜色",
+      "en": "Color"
+    },
+    {
+      "path": "centralControl.propBorderSize",
+      "zh": "粗细",
+      "en": "Width"
+    },
+    {
+      "path": "centralControl.propBorderWidth",
+      "zh": "宽度",
+      "en": "Width"
+    },
+    {
+      "path": "centralControl.propClearImage",
+      "zh": "清除",
+      "en": "Clear"
+    },
+    {
+      "path": "centralControl.propClearImageTip",
+      "zh": "清除已设置的背景图，恢复为背景颜色",
+      "en": "Clear the set background image and revert to background color"
+    },
+    {
+      "path": "centralControl.propColor",
+      "zh": "颜色",
+      "en": "Color"
+    },
+    {
+      "path": "centralControl.propColorPickerGradient",
+      "zh": "渐变",
+      "en": "Gradient"
+    },
+    {
+      "path": "centralControl.propColorPickerSolid",
+      "zh": "单色",
+      "en": "Solid"
+    },
+    {
+      "path": "centralControl.propColorSetTransparent",
+      "zh": "设为透明",
+      "en": "Transparent"
+    },
+    {
+      "path": "centralControl.propColorTransparent",
+      "zh": "无色",
+      "en": "None"
+    },
+    {
+      "path": "centralControl.propContent",
+      "zh": "内容",
+      "en": "Content"
+    },
+    {
+      "path": "centralControl.propCornerRadius",
+      "zh": "圆角",
+      "en": "Rounded corner"
+    },
+    {
+      "path": "centralControl.propDefaultState",
+      "zh": "默认",
+      "en": "Default"
+    },
+    {
+      "path": "centralControl.propDirection",
+      "zh": "方向",
+      "en": "Direction"
+    },
+    {
+      "path": "centralControl.propFill",
+      "zh": "填充",
+      "en": "Fill"
+    },
+    {
+      "path": "centralControl.propFillMode",
+      "zh": "填充模式",
+      "en": "Fill mode"
+    },
+    {
+      "path": "centralControl.propFont",
+      "zh": "字体",
+      "en": "Font"
+    },
+    {
+      "path": "centralControl.propFontSize",
+      "zh": "字号",
+      "en": "Font size"
+    },
+    {
+      "path": "centralControl.propGeneral",
+      "zh": "常规",
+      "en": "General"
+    },
+    {
+      "path": "centralControl.propHorizontalAlign",
+      "zh": "水平对齐",
+      "en": "Horizontal alignment"
+    },
+    {
+      "path": "centralControl.propImage",
+      "zh": "图片",
+      "en": "Image"
+    },
+    {
+      "path": "centralControl.propImageSelectPlaceholder",
+      "zh": "请选择图片",
+      "en": "Please select an image"
+    },
+    {
+      "path": "centralControl.propImageSelectedUnnamed",
+      "zh": "已选图片",
+      "en": "Selected image"
+    },
+    {
+      "path": "centralControl.propImageSourceLocal",
+      "zh": "本地图片",
+      "en": "Local image"
+    },
+    {
+      "path": "centralControl.propImageSourceMaterial",
+      "zh": "素材图片",
+      "en": "Resource image"
+    },
+    {
+      "path": "centralControl.propInactive",
+      "zh": "非激活",
+      "en": "Inactive"
+    },
+    {
+      "path": "centralControl.propLoadImage",
+      "zh": "加载",
+      "en": "Load"
+    },
+    {
+      "path": "centralControl.propLoadImageTip",
+      "zh": "从素材列表选择一张图片作为按钮背景图",
+      "en": "Select an image from the material list as the button background"
+    },
+    {
+      "path": "centralControl.propMaterialImageDialogTitle",
+      "zh": "素材图片",
+      "en": "Resource image"
+    },
+    {
+      "path": "centralControl.propMaterialImport",
+      "zh": "导入",
+      "en": "Import"
+    },
+    {
+      "path": "centralControl.propMaterialSearchPlaceholder",
+      "zh": "请搜索",
+      "en": "Search"
+    },
+    {
+      "path": "centralControl.propName",
+      "zh": "名称",
+      "en": "Name"
+    },
+    {
+      "path": "centralControl.propPanelTitle",
+      "zh": "属性",
+      "en": "Properties"
+    },
+    {
+      "path": "centralControl.propReset",
+      "zh": "重置",
+      "en": "Reset"
+    },
+    {
+      "path": "centralControl.propResetSuccess",
+      "zh": "重置成功",
+      "en": "Reset successful."
+    },
+    {
+      "path": "centralControl.propShadow",
+      "zh": "阴影",
+      "en": "Shadow"
+    },
+    {
+      "path": "centralControl.propShadowShow",
+      "zh": "显示",
+      "en": "Show"
+    },
+    {
+      "path": "centralControl.propShape",
+      "zh": "形状",
+      "en": "Shape"
+    },
+    {
+      "path": "centralControl.propSliderTrack",
+      "zh": "滑动条",
+      "en": "Slider"
+    },
+    {
+      "path": "centralControl.propSyncInactiveToActive",
+      "zh": "将默认样式同步到激活态",
+      "en": "Copy default style to active state"
+    },
+    {
+      "path": "centralControl.propSyncSuccess",
+      "zh": "同步成功",
+      "en": "Sync successful."
+    },
+    {
+      "path": "centralControl.propSyncToActive",
+      "zh": "将设置同步至激活",
+      "en": "Sync settings to active"
+    },
+    {
+      "path": "centralControl.propSyncToInactive",
+      "zh": "将设置同步至默认",
+      "en": "Sync settings to default"
+    },
+    {
+      "path": "centralControl.propText",
+      "zh": "文本",
+      "en": "Text"
+    },
+    {
+      "path": "centralControl.propThumb",
+      "zh": "滑块",
+      "en": "Thumb"
+    },
+    {
+      "path": "centralControl.propTrack",
+      "zh": "滑槽",
+      "en": "Track"
+    },
+    {
+      "path": "centralControl.propTrackFilledColor",
+      "zh": "填充段颜色",
+      "en": "Filled segment color"
+    },
+    {
+      "path": "centralControl.propVerticalAlign",
+      "zh": "垂直对齐",
+      "en": "Vertical alignment"
+    },
+    {
+      "path": "centralControl.radio",
+      "zh": "单选",
+      "en": "Single select"
+    },
+    {
+      "path": "centralControl.rect",
+      "zh": "面板",
+      "en": "Panel"
+    },
+    {
+      "path": "centralControl.redo",
+      "zh": "恢复",
+      "en": "Redo"
+    },
+    {
+      "path": "centralControl.relayClose",
+      "zh": "断开",
+      "en": "Off"
+    },
+    {
+      "path": "centralControl.relayConnectStatus",
+      "zh": "开断状态",
+      "en": "Connect status"
+    },
+    {
+      "path": "centralControl.relayInfo",
+      "zh": "RELAY",
+      "en": "RELAY"
+    },
+    {
+      "path": "centralControl.relayInfoTimed",
+      "zh": "RELAY Timed",
+      "en": "RELAY Timed"
+    },
+    {
+      "path": "centralControl.relayInterfaceText",
+      "zh": "RELAY口",
+      "en": "RELAY interface"
+    },
+    {
+      "path": "centralControl.relayOpen",
+      "zh": "闭合",
+      "en": "On"
+    },
+    {
+      "path": "centralControl.relayPopper",
+      "zh": "RELAY口 ",
+      "en": "RELAY port "
+    },
+    {
+      "path": "centralControl.relayTimed",
+      "zh": "RELAY(定时)",
+      "en": "RELAY(Timed)"
+    },
+    {
+      "path": "centralControl.release",
+      "zh": "抬起",
+      "en": "Mouse up"
+    },
+    {
+      "path": "centralControl.rename",
+      "zh": "重命名",
+      "en": "Rename"
+    },
+    {
+      "path": "centralControl.repeat",
+      "zh": "重复",
+      "en": "Repeat"
+    },
+    {
+      "path": "centralControl.resourceList",
+      "zh": "资源列表",
+      "en": "Resources"
+    },
+    {
+      "path": "centralControl.right",
+      "zh": "右",
+      "en": "Right"
+    },
+    {
+      "path": "centralControl.saturday",
+      "zh": "每周六",
+      "en": "Every saturday"
+    },
+    {
+      "path": "centralControl.save",
+      "zh": "保存",
+      "en": "Save"
+    },
+    {
+      "path": "centralControl.saveAndLeave",
+      "zh": "保存并离开",
+      "en": "Save and exit"
+    },
+    {
+      "path": "centralControl.saveFailed",
+      "zh": "保存失败",
+      "en": "Save failed."
+    },
+    {
+      "path": "centralControl.saveLayer",
+      "zh": "保存",
+      "en": "Save"
+    },
+    {
+      "path": "centralControl.saveSuccess",
+      "zh": "保存成功",
+      "en": "Save successfully."
+    },
+    {
+      "path": "centralControl.select",
+      "zh": "请选择",
+      "en": "Please select"
+    },
+    {
+      "path": "centralControl.selectImageHint",
+      "zh": "点击或拖拽选择图片",
+      "en": "Click or drag to select images"
+    },
+    {
+      "path": "centralControl.selectedImageCount",
+      "zh": "已选择 {count} 张图片",
+      "en": "Selected {count} image(s)"
+    },
+    {
+      "path": "centralControl.send",
+      "zh": "发送",
+      "en": "Send"
+    },
+    {
+      "path": "centralControl.serverIpAddress",
+      "zh": "服务器IP地址",
+      "en": "Server IP address"
+    },
+    {
+      "path": "centralControl.serverPort",
+      "zh": "服务器端口号",
+      "en": "Server port"
+    },
+    {
+      "path": "centralControl.shapeRounded",
+      "zh": "圆角",
+      "en": "Rounded corner"
+    },
+    {
+      "path": "centralControl.shapeSquare",
+      "zh": "直角",
+      "en": "Square corner"
+    },
+    {
+      "path": "centralControl.slider",
+      "zh": "滑动条",
+      "en": "Slider"
+    },
+    {
+      "path": "centralControl.sliderProps",
+      "zh": "滑动条属性",
+      "en": "Slider properties"
+    },
+    {
+      "path": "centralControl.sound",
+      "zh": "声音",
+      "en": "Sound"
+    },
+    {
+      "path": "centralControl.soundOff",
+      "zh": "静音",
+      "en": "Mute"
+    },
+    {
+      "path": "centralControl.start",
+      "zh": "开始",
+      "en": "Start"
+    },
+    {
+      "path": "centralControl.stop",
+      "zh": "暂停",
+      "en": "Pause"
+    },
+    {
+      "path": "centralControl.stopLabel",
+      "zh": "停止位",
+      "en": "Stop bits"
+    },
+    {
+      "path": "centralControl.subNetMask",
+      "zh": "子网掩码",
+      "en": "Subnet mask"
+    },
+    {
+      "path": "centralControl.sunday",
+      "zh": "每周日",
+      "en": "Every sunday"
+    },
+    {
+      "path": "centralControl.switch",
+      "zh": "开关",
+      "en": "Switch"
+    },
+    {
+      "path": "centralControl.switchProps",
+      "zh": "开关属性",
+      "en": "Switch properties"
+    },
+    {
+      "path": "centralControl.systemTime",
+      "zh": "系统时间",
+      "en": "System time"
+    },
+    {
+      "path": "centralControl.targetIpAddress",
+      "zh": "目标IP地址",
+      "en": "Destination IP address"
+    },
+    {
+      "path": "centralControl.targetPort",
+      "zh": "目标端口号",
+      "en": "Destination port"
+    },
+    {
+      "path": "centralControl.tcpClient",
+      "zh": "TCP Client",
+      "en": "TCP Client"
+    },
+    {
+      "path": "centralControl.tcpServer",
+      "zh": "TCP Server",
+      "en": "TCP Server"
+    },
+    {
+      "path": "centralControl.television",
+      "zh": "电视机",
+      "en": "Television"
+    },
+    {
+      "path": "centralControl.test",
+      "zh": "测试",
+      "en": "Test"
+    },
+    {
+      "path": "centralControl.text",
+      "zh": "文本",
+      "en": "Text"
+    },
+    {
+      "path": "centralControl.textProps",
+      "zh": "文本属性",
+      "en": "Text properties"
+    },
+    {
+      "path": "centralControl.then",
+      "zh": "就",
+      "en": "Action"
+    },
+    {
+      "path": "centralControl.thursday",
+      "zh": "每周四",
+      "en": "Every thursday"
+    },
+    {
+      "path": "centralControl.timed",
+      "zh": "定时",
+      "en": "Timer"
+    },
+    {
+      "path": "centralControl.trialExpired",
+      "zh": "试用时间已到期！",
+      "en": "Your trial has expired."
+    },
+    {
+      "path": "centralControl.triggerAction",
+      "zh": "触发动作",
+      "en": "Trigger action"
+    },
+    {
+      "path": "centralControl.tuesday",
+      "zh": "每周二",
+      "en": "Every tuesday"
+    },
+    {
+      "path": "centralControl.udp",
+      "zh": "UDP",
+      "en": "UDP"
+    },
+    {
+      "path": "centralControl.unConnect",
+      "zh": "断开",
+      "en": "Unconnect"
+    },
+    {
+      "path": "centralControl.undo",
+      "zh": "撤销",
+      "en": "Undo"
+    },
+    {
+      "path": "centralControl.up",
+      "zh": "上",
+      "en": "Up"
+    },
+    {
+      "path": "centralControl.useComponentFail",
+      "zh": "指令调用失败",
+      "en": "Command execution failed."
+    },
+    {
+      "path": "centralControl.useComponentSuccess",
+      "zh": "指令调用成功",
+      "en": "Command executed successfully."
+    },
+    {
+      "path": "centralControl.utf",
+      "zh": "UTF-8",
+      "en": "UTF-8"
+    },
+    {
+      "path": "centralControl.wednesday",
+      "zh": "每周三",
+      "en": "Every wednesday"
+    },
+    {
+      "path": "error.error20001",
+      "zh": "未知错误",
+      "en": "Unknown error."
+    },
+    {
+      "path": "error.error30100",
+      "zh": "加密限制",
+      "en": "Encryption restriction"
+    },
+    {
+      "path": "error.error30101",
+      "zh": "body数据异常, 请求失败",
+      "en": "Request failed: Invalid request body."
+    },
+    {
+      "path": "error.error30200",
+      "zh": "串口数据指令:“{ command }”发送失败;",
+      "en": "Failed to send serial port command \"{ command }\"."
+    },
+    {
+      "path": "error.error30201",
+      "zh": "TCP数据指令:“{ command }”发送失败;",
+      "en": "Failed to send TCP command \"{ command }\"."
+    },
+    {
+      "path": "error.error30202",
+      "zh": "UDP数据指令:“{ command }”发送失败;",
+      "en": "Failed to send UDP command \"{ command }\"."
+    },
+    {
+      "path": "error.error30300",
+      "zh": "当前串口号无法打开,请检查串口占用状态重新配置",
+      "en": "Unable to open the serial port. Please check if it is in use and reconfigure it."
+    },
+    {
+      "path": "error.error30301",
+      "zh": "UDP配置失败",
+      "en": "UDP configuration failed."
+    },
+    {
+      "path": "error.error30302",
+      "zh": "TCP_Client配置失败,请检查目标服务器状态",
+      "en": "TCP_Client configuration failed. Please check the target server status."
+    },
+    {
+      "path": "error.error30303",
+      "zh": "TCP_Server配置失败,请检查服务器端口占用",
+      "en": "TCP_Server configuration failed. Please check if the server port is in use."
+    },
+    {
+      "path": "error.error30304",
+      "zh": "该名称已存在，请修改名称",
+      "en": "Duplicate SDK name. Please use a different name."
+    },
+    {
+      "path": "error.error30305",
+      "zh": "该配置已被使用，继续删除会删除相关控件绑定，是否继续？",
+      "en": "This configuration is in use. Deleting it will remove associated controls. Continue?"
+    },
+    {
+      "path": "error.error30306",
+      "zh": "该配置属性已存在，不可重复配置",
+      "en": "This property already exists and cannot be configured again."
+    },
+    {
+      "path": "error.error404",
+      "zh": "请求的资源不存在",
+      "en": "Requested resource not found."
+    },
+    {
+      "path": "error.error408",
+      "zh": "请求超时",
+      "en": "Request timed out."
+    },
+    {
+      "path": "error.error500",
+      "zh": "服务器内部错误",
+      "en": "Internal server error."
+    },
+    {
+      "path": "error.error501",
+      "zh": "服务器不支持该功能",
+      "en": "Feature not supported."
+    },
+    {
+      "path": "error.error502",
+      "zh": "网关错误",
+      "en": "Gateway error."
+    },
+    {
+      "path": "error.error503",
+      "zh": "服务暂时不可用",
+      "en": "Service temporarily unavailable."
+    },
+    {
+      "path": "error.error504",
+      "zh": "网关超时",
+      "en": "Gateway timed out."
+    },
+    {
+      "path": "error.error699",
+      "zh": "请求已取消",
+      "en": "Request canceled."
+    },
+    {
+      "path": "global.about",
+      "zh": "关于",
+      "en": "About"
+    },
+    {
+      "path": "global.accountDeletedTips",
+      "zh": "您的账号已被删除，请重新登录",
+      "en": "Account deleted. Please try a different account."
+    },
+    {
+      "path": "global.accountDisabledTips",
+      "zh": "账号已停用，请联系管理员",
+      "en": "Account disabled. Please contact the administrator."
+    },
+    {
+      "path": "global.addFail",
+      "zh": "添加失败",
+      "en": "Added failed."
+    },
+    {
+      "path": "global.addSuccess",
+      "zh": "添加成功",
+      "en": "Added successfully."
+    },
+    {
+      "path": "global.advancedMending",
+      "zh": "高级修缝",
+      "en": "Advanced seam correction"
+    },
+    {
+      "path": "global.advancedSetting",
+      "zh": "高级设置",
+      "en": "Advanced"
+    },
+    {
+      "path": "global.allNetworkPortsOutput",
+      "zh": "所有网口输出",
+      "en": "All ports output"
+    },
+    {
+      "path": "global.ambientTemperature",
+      "zh": "环境温度",
+      "en": "Ambient temperature"
+    },
+    {
+      "path": "global.audioManagement",
+      "zh": "音频管理",
+      "en": "Audio"
+    },
+    {
+      "path": "global.auto",
+      "zh": "自动",
+      "en": "Auto"
+    },
+    {
+      "path": "global.backUpChangeTips",
+      "zh": "设备已恢复备份数据，请重新登录",
+      "en": "Backup restored successfully. Please log in again."
+    },
+    {
+      "path": "global.blue",
+      "zh": "蓝色",
+      "en": "Blue"
+    },
+    {
+      "path": "global.boardType",
+      "zh": "板卡型号",
+      "en": "Board model"
+    },
+    {
+      "path": "global.borderColor",
+      "zh": "边框颜色",
+      "en": "Border color"
+    },
+    {
+      "path": "global.bottom",
+      "zh": "下",
+      "en": "Bottom"
+    },
+    {
+      "path": "global.bottomSwitchFan",
+      "zh": "下交换板风扇",
+      "en": "Lower switch board fan"
+    },
+    {
+      "path": "global.browserTitle",
+      "zh": "Universe 控制系统",
+      "en": "Universe control system"
+    },
+    {
+      "path": "global.buildTime",
+      "zh": "编译时间：",
+      "en": "Built at: "
+    },
+    {
+      "path": "global.cameraCalibration",
+      "zh": "相机校正",
+      "en": "Camera calibration"
+    },
+    {
+      "path": "global.cancel",
+      "zh": "取消",
+      "en": "Cancel"
+    },
+    {
+      "path": "global.centralControl",
+      "zh": "中央控制",
+      "en": "Central Control"
+    },
+    {
+      "path": "global.checkBackBoard",
+      "zh": "检查背板...",
+      "en": "Checking back board..."
+    },
+    {
+      "path": "global.checkBackBoardFailed",
+      "zh": "背板异常",
+      "en": "Checking back board failed"
+    },
+    {
+      "path": "global.checkBackBoardTimeout",
+      "zh": "检查背板超时",
+      "en": "Checking back board timeout"
+    },
+    {
+      "path": "global.checkSubBoard",
+      "zh": "检查子板...",
+      "en": "Checking sub board..."
+    },
+    {
+      "path": "global.checkSubBoardFailed",
+      "zh": "子板异常",
+      "en": "Checking sub board failed"
+    },
+    {
+      "path": "global.checkSubBoardTimeout",
+      "zh": "检查子板超时",
+      "en": "Checking sub board timeout"
+    },
+    {
+      "path": "global.chessboard",
+      "zh": "棋盘格",
+      "en": "Checkerboard"
+    },
+    {
+      "path": "global.chinese",
+      "zh": "简体中文",
+      "en": "简体中文"
+    },
+    {
+      "path": "global.companyName",
+      "zh": "公司信息",
+      "en": "Company"
+    },
+    {
+      "path": "global.configNetwork",
+      "zh": "配置网络...",
+      "en": "Configuring network..."
+    },
+    {
+      "path": "global.configNetworkFailed",
+      "zh": "配置网络失败",
+      "en": "Configuring network failed"
+    },
+    {
+      "path": "global.configNetworkTimeout",
+      "zh": "配置网络超时",
+      "en": "Configuring network timeout"
+    },
+    {
+      "path": "global.confirm",
+      "zh": "确定",
+      "en": "OK"
+    },
+    {
+      "path": "global.connected",
+      "zh": "已连接",
+      "en": "Connected"
+    },
+    {
+      "path": "global.connectedNotPoweredOn",
+      "zh": "已连接未通电",
+      "en": "Connected but not powered on"
+    },
+    {
+      "path": "global.connectionStatus",
+      "zh": "连接状态",
+      "en": "Status"
+    },
+    {
+      "path": "global.consultCustomerService",
+      "zh": "微信扫码咨询客服",
+      "en": "Scan for WeChat support"
+    },
+    {
+      "path": "global.controlMode",
+      "zh": "控制模式",
+      "en": "Control mode"
+    },
+    {
+      "path": "global.currentUser",
+      "zh": "当前用户",
+      "en": "Current user"
+    },
+    {
+      "path": "global.customerServiceQR",
+      "zh": "客服二维码",
+      "en": "Support QR code"
+    },
+    {
+      "path": "global.debugMode",
+      "zh": "开发者模式",
+      "en": "Developer mode"
+    },
+    {
+      "path": "global.debugModeContent",
+      "zh": "是否进入开发者模式？",
+      "en": "Do you want to enable developer mode?"
+    },
+    {
+      "path": "global.deleteFail",
+      "zh": "删除失败",
+      "en": "Deletion failed."
+    },
+    {
+      "path": "global.deleteSuccess",
+      "zh": "删除成功",
+      "en": "Deleted successfully."
+    },
+    {
+      "path": "global.detect",
+      "zh": "探测",
+      "en": "Detect"
+    },
+    {
+      "path": "global.deviceEarly",
+      "zh": "设备状态",
+      "en": "Device status"
+    },
+    {
+      "path": "global.deviceManagement",
+      "zh": "设备管理",
+      "en": "Device"
+    },
+    {
+      "path": "global.deviceTemperature",
+      "zh": "设备温度",
+      "en": "Device temperature"
+    },
+    {
+      "path": "global.drawBorder",
+      "zh": "四边是否画边框",
+      "en": "Draw border"
+    },
+    {
+      "path": "global.editMode",
+      "zh": "编辑模式",
+      "en": "Edit mode"
+    },
+    {
+      "path": "global.email",
+      "zh": "邮箱留言",
+      "en": "Email"
+    },
+    {
+      "path": "global.enable",
+      "zh": "使能",
+      "en": "Enable"
+    },
+    {
+      "path": "global.enableCameraCalibration",
+      "zh": "启用相机校正",
+      "en": "Enable camera calibration"
+    },
+    {
+      "path": "global.encryptionTips",
+      "zh": "试用已结束，请激活使用",
+      "en": "Your trial has expired. Please activate GrandHub to continue."
+    },
+    {
+      "path": "global.english",
+      "zh": "English",
+      "en": "English"
+    },
+    {
+      "path": "global.exportSystemLog",
+      "zh": "导出系统日志",
+      "en": "Export System Log"
+    },
+    {
+      "path": "global.factoryResetTips",
+      "zh": "设备已恢复出厂设置，请重新登录",
+      "en": "Factory reset successful. Please log in again."
+    },
+    {
+      "path": "global.fail",
+      "zh": "失败",
+      "en": "Failed"
+    },
+    {
+      "path": "global.failHelp",
+      "zh": "设备启动失败，请尝试重新启动或联系技术支持人员",
+      "en": "Device startup failed. Please try restarting or contact technical support."
+    },
+    {
+      "path": "global.failReason",
+      "zh": "原因",
+      "en": "Reason"
+    },
+    {
+      "path": "global.fan",
+      "zh": "风扇",
+      "en": "Fan"
+    },
+    {
+      "path": "global.fanPosition",
+      "zh": "风扇位置",
+      "en": "Fan position"
+    },
+    {
+      "path": "global.fanSpeed",
+      "zh": "风扇转速",
+      "en": "Fan speed"
+    },
+    {
+      "path": "global.fanType",
+      "zh": "风扇类型",
+      "en": "Fan model"
+    },
+    {
+      "path": "global.followSystem",
+      "zh": "跟随系统",
+      "en": "Follow system"
+    },
+    {
+      "path": "global.forbidden",
+      "zh": "禁止",
+      "en": "Disable"
+    },
+    {
+      "path": "global.fullScreen",
+      "zh": "最大化",
+      "en": "Maximize"
+    },
+    {
+      "path": "global.green",
+      "zh": "绿色",
+      "en": "Green"
+    },
+    {
+      "path": "global.help",
+      "zh": "帮助",
+      "en": "Help"
+    },
+    {
+      "path": "global.highSpeed",
+      "zh": "高速",
+      "en": "High"
+    },
+    {
+      "path": "global.history",
+      "zh": "历史颜色",
+      "en": "History Colors"
+    },
+    {
+      "path": "global.hotLine",
+      "zh": "服务热线",
+      "en": "Phone"
+    },
+    {
+      "path": "global.ieBrowserTips",
+      "zh": "此网站不适用于Internet Explorer，建议您使用其他浏览器",
+      "en": "This website is not supported by Internet Explorer, please use another browser."
+    },
+    {
+      "path": "global.imageArea",
+      "zh": "图像区域",
+      "en": "Screen area"
+    },
+    {
+      "path": "global.imageDisplay",
+      "zh": "图像显示",
+      "en": "Screen display"
+    },
+    {
+      "path": "global.index",
+      "zh": "序号",
+      "en": "No."
+    },
+    {
+      "path": "global.inputSetting",
+      "zh": "输入配置",
+      "en": "Input"
+    },
+    {
+      "path": "global.invalidValue",
+      "zh": "数值无效",
+      "en": "Invalid value"
+    },
+    {
+      "path": "global.ipReconnect",
+      "zh": "IP已被修改，重新连接中...",
+      "en": "IP address changed. Reconnecting..."
+    },
+    {
+      "path": "global.joinSetting",
+      "zh": "拼接设置",
+      "en": "Splicing"
+    },
+    {
+      "path": "global.juniorHotSpot",
+      "zh": "初级热点",
+      "en": "Primary hotspot"
+    },
+    {
+      "path": "global.language",
+      "zh": "语言",
+      "en": "Language"
+    },
+    {
+      "path": "global.left",
+      "zh": "左",
+      "en": "Left"
+    },
+    {
+      "path": "global.leftFrontFan",
+      "zh": "左前腔风扇",
+      "en": "Left-front fan"
+    },
+    {
+      "path": "global.loadParam",
+      "zh": "加载参数...",
+      "en": "Loading parameters..."
+    },
+    {
+      "path": "global.loadParamFailed",
+      "zh": "加载参数失败",
+      "en": "Loading parameters failed"
+    },
+    {
+      "path": "global.loadParamTimeout",
+      "zh": "加载参数超时",
+      "en": "Loading parameters timeout"
+    },
+    {
+      "path": "global.loading",
+      "zh": "加载中",
+      "en": "Loading..."
+    },
+    {
+      "path": "global.loginExpiredTips",
+      "zh": "设备已重启，请重新登录",
+      "en": "Session expired. Please log in again."
+    },
+    {
+      "path": "global.loseNetConnectionTips",
+      "zh": "账号已在其它地点登录，如非本人操作，请尽快修改密码",
+      "en": "The account has been logged in in another location, if it is not operated by yourself, please change the password as soon as possible"
+    },
+    {
+      "path": "global.lowSpeed",
+      "zh": "低速",
+      "en": "Low"
+    },
+    {
+      "path": "global.mediumSpeed",
+      "zh": "中速",
+      "en": "Medium"
+    },
+    {
+      "path": "global.mode",
+      "zh": "模式",
+      "en": "Mode"
+    },
+    {
+      "path": "global.more",
+      "zh": "更多",
+      "en": "More"
+    },
+    {
+      "path": "global.moreFunctions",
+      "zh": "更多功能",
+      "en": "More"
+    },
+    {
+      "path": "global.no",
+      "zh": "否",
+      "en": "No"
+    },
+    {
+      "path": "global.noAvailableScreens",
+      "zh": "沒有可用屏幕",
+      "en": "No screen available."
+    },
+    {
+      "path": "global.noComDataText",
+      "zh": "无COM数据,请检查服务器COM口",
+      "en": "无COM数据,请检查服务器COM口"
+    },
+    {
+      "path": "global.noDataText",
+      "zh": "暂无数据",
+      "en": "No data"
+    },
+    {
+      "path": "global.notSave",
+      "zh": "不保存",
+      "en": "Discard"
+    },
+    {
+      "path": "global.notSupport",
+      "zh": "不支持",
+      "en": "Not supported"
+    },
+    {
+      "path": "global.notSupportCamera",
+      "zh": "此设备不支持相机校对功能",
+      "en": "This device does not support camera calibration."
+    },
+    {
+      "path": "global.outerRectangleSize",
+      "zh": "外围矩形大小",
+      "en": "Outer rectangle size"
+    },
+    {
+      "path": "global.passwordModificationTips",
+      "zh": "您的密码已被修改，请重新登录",
+      "en": "Your password has been changed. Please log in again."
+    },
+    {
+      "path": "global.power",
+      "zh": "电源",
+      "en": "Power"
+    },
+    {
+      "path": "global.powerTemperature",
+      "zh": "电源温度",
+      "en": "Power temperature"
+    },
+    {
+      "path": "global.preset",
+      "zh": "预置颜色",
+      "en": "Preset Colors"
+    },
+    {
+      "path": "global.previewEcho",
+      "zh": "预监回显",
+      "en": "PreviewEcho"
+    },
+    {
+      "path": "global.reconnect",
+      "zh": "设备重连中...",
+      "en": "Reconnecting to network..."
+    },
+    {
+      "path": "global.red",
+      "zh": "红色",
+      "en": "Red"
+    },
+    {
+      "path": "global.refresh",
+      "zh": "刷新",
+      "en": "Refresh"
+    },
+    {
+      "path": "global.refreshFail",
+      "zh": "刷新失败",
+      "en": "Refresh failed."
+    },
+    {
+      "path": "global.refreshSuccess",
+      "zh": "刷新成功",
+      "en": "Refresh successful."
+    },
+    {
+      "path": "global.releaseDate",
+      "zh": "编译时间",
+      "en": "Built at"
+    },
+    {
+      "path": "global.reset",
+      "zh": "重置",
+      "en": "Reset"
+    },
+    {
+      "path": "global.restarting",
+      "zh": "设备启动中，请稍候...",
+      "en": "Device is starting up..."
+    },
+    {
+      "path": "global.restore",
+      "zh": "还原",
+      "en": "Restore"
+    },
+    {
+      "path": "global.restoreFactory",
+      "zh": "恢复出厂中...",
+      "en": "Resetting..."
+    },
+    {
+      "path": "global.right",
+      "zh": "右",
+      "en": "Right"
+    },
+    {
+      "path": "global.rightFrontFan",
+      "zh": "右前腔风扇",
+      "en": "Right-front fan"
+    },
+    {
+      "path": "global.save",
+      "zh": "保存",
+      "en": "Save"
+    },
+    {
+      "path": "global.saveFail",
+      "zh": "保存失败",
+      "en": "Saving failed."
+    },
+    {
+      "path": "global.saveSuccess",
+      "zh": "保存成功",
+      "en": "Saved successfully."
+    },
+    {
+      "path": "global.saving",
+      "zh": "保存中...",
+      "en": "Saving..."
+    },
+    {
+      "path": "global.screenManagement",
+      "zh": "屏幕管理",
+      "en": "Screen"
+    },
+    {
+      "path": "global.search",
+      "zh": "搜索",
+      "en": "Search"
+    },
+    {
+      "path": "global.secondaryHotSpot",
+      "zh": "次级热点",
+      "en": "Secondary hotspot"
+    },
+    {
+      "path": "global.sendBkg",
+      "zh": "下发底图...",
+      "en": "Sending background image..."
+    },
+    {
+      "path": "global.sendBkgFailed",
+      "zh": "下发底图失败",
+      "en": "Sending background image failed"
+    },
+    {
+      "path": "global.sendBkgTimeout",
+      "zh": "下发底图超时",
+      "en": "Sending background image timeout"
+    },
+    {
+      "path": "global.sendChessboardIndex",
+      "zh": "发送卡列序号",
+      "en": "Sending card No."
+    },
+    {
+      "path": "global.sendFpgaParam",
+      "zh": "下发 FPGA 参数...",
+      "en": "Sending FPGA parameters..."
+    },
+    {
+      "path": "global.sendFpgaParamFailed",
+      "zh": "下发 FPGA 参数失败",
+      "en": "Sending FPGA parameters failed"
+    },
+    {
+      "path": "global.sendFpgaParamTimeout",
+      "zh": "下发 FPGA 参数超时",
+      "en": "Sending FPGA parameters timeout"
+    },
+    {
+      "path": "global.sendLogo",
+      "zh": "下发台标...",
+      "en": "Sending station logo..."
+    },
+    {
+      "path": "global.sendLogoFailed",
+      "zh": "下发台标失败",
+      "en": "Sending station logo failed"
+    },
+    {
+      "path": "global.sendLogoTimeout",
+      "zh": "下发台标超时",
+      "en": "Sending station logo timeout"
+    },
+    {
+      "path": "global.sendOsd",
+      "zh": "下发 OSD...",
+      "en": "Sending OSD..."
+    },
+    {
+      "path": "global.sendOsdFailed",
+      "zh": "下发 OSD 失败",
+      "en": "Sending OSD failed"
+    },
+    {
+      "path": "global.sendOsdTimeout",
+      "zh": "下发 OSD 超时",
+      "en": "Sending OSD timeout"
+    },
+    {
+      "path": "global.setFailed",
+      "zh": "设置失败",
+      "en": "Setting failed."
+    },
+    {
+      "path": "global.setSuccessfully",
+      "zh": "设置成功",
+      "en": "Setting successful."
+    },
+    {
+      "path": "global.softInTrial",
+      "zh": "GrandHub 剩余试用时间",
+      "en": "GrandHub remaining trial time"
+    },
+    {
+      "path": "global.softwareMode",
+      "zh": "软件模式",
+      "en": "Software mode"
+    },
+    {
+      "path": "global.softwareVersion",
+      "zh": "软件版本",
+      "en": "Version"
+    },
+    {
+      "path": "global.speed",
+      "zh": "转速",
+      "en": "Speed"
+    },
+    {
+      "path": "global.stepSize",
+      "zh": "步长",
+      "en": "Step size"
+    },
+    {
+      "path": "global.success",
+      "zh": "成功",
+      "en": "Successful"
+    },
+    {
+      "path": "global.supply",
+      "zh": "功率",
+      "en": "Supply"
+    },
+    {
+      "path": "global.support",
+      "zh": "支持",
+      "en": "Supported"
+    },
+    {
+      "path": "global.svnVersion",
+      "zh": "编译序号",
+      "en": "Build No."
+    },
+    {
+      "path": "global.switchBoardOffline",
+      "zh": "交换板连接异常，请联系技术支持",
+      "en": "Unable to connect to the switch board. Please contact technical support."
+    },
+    {
+      "path": "global.switchFan",
+      "zh": "交换板风扇",
+      "en": "Switch board fan"
+    },
+    {
+      "path": "global.tokenInvalid",
+      "zh": "登录凭证无效，请重新登录",
+      "en": "Token invalid. Please log in again."
+    },
+    {
+      "path": "global.top",
+      "zh": "上",
+      "en": "Top"
+    },
+    {
+      "path": "global.topSwitchFan",
+      "zh": "上交换板风扇",
+      "en": "Upper switch board fan"
+    },
+    {
+      "path": "global.type",
+      "zh": "类型",
+      "en": "Type"
+    },
+    {
+      "path": "global.unConnected",
+      "zh": "未连接",
+      "en": "Not connected"
+    },
+    {
+      "path": "global.unknowFailed",
+      "zh": "异常-1",
+      "en": "Abnormal-1"
+    },
+    {
+      "path": "global.uploadFail",
+      "zh": "上传失败",
+      "en": "Upload failed."
+    },
+    {
+      "path": "global.uploadSuccess",
+      "zh": "上传成功",
+      "en": "Upload successful."
+    },
+    {
+      "path": "global.uppercaseLockOpen",
+      "zh": "大写锁定已打开",
+      "en": "Caps Lock is on."
+    },
+    {
+      "path": "global.user",
+      "zh": "用户",
+      "en": "User"
+    },
+    {
+      "path": "global.value",
+      "zh": "值",
+      "en": "Value"
+    },
+    {
+      "path": "global.webSimulatorReconnect",
+      "zh": "服务器连接已断开，请重新连接",
+      "en": "The server connection has been disconnected, please reconnect"
+    },
+    {
+      "path": "global.website",
+      "zh": "公司网址",
+      "en": "Website"
+    },
+    {
+      "path": "global.wsDisconnectTip",
+      "zh": "设备连接已断开，请重新登录",
+      "en": "Device disconnection. Please log in again."
+    },
+    {
+      "path": "global.xOffset",
+      "zh": "X偏移",
+      "en": "X offset"
+    },
+    {
+      "path": "global.yOffset",
+      "zh": "Y偏移",
+      "en": "Y offset"
+    },
+    {
+      "path": "global.yes",
+      "zh": "是",
+      "en": "Yes"
+    }
+  ],
+  "zhToEn": {
+    "I/O(输入)": "I/O(Input)",
+    "添加": "Add",
+    "添加执行指令": "Add command",
+    "空调": "Air conditioner",
+    "下对齐": "Align bottom",
+    "水平居中": "Align center",
+    "左对齐": "Align left",
+    "垂直居中": "Align middle",
+    "右对齐": "Align right",
+    "上对齐": "Align top",
+    "全选": "Select all",
+    "ASCII(GBK)": "ASCII(GBK)",
+    "ASCII(UTF-8)": "ASCII(UTF-8)",
+    "属性配置": "Properties",
+    "外部设备属性配置": "External properties",
+    "音频处理器": "Audio processor",
+    "波特率": "Baud rate",
+    "前景": "Foreground",
+    "左下": "Bottom left",
+    "右下": "Bottom right",
+    "背景": "Background",
+    "光圈 -": "Aperture -",
+    "光圈 +": "Aperture +",
+    "水平翻转": "Flip horizontal",
+    "循环": "Loop",
+    "左上": "Top left",
+    "右上": "Top right",
+    "垂直翻转": "Flip vertical",
+    "放大": "Zoom in",
+    "缩小": "Zoom out",
+    "摄像头": "Camera",
+    "快进": "Fast forward",
+    "主页": "Home",
+    "关灯": "Light off",
+    "开灯": "Light on",
+    "停止": "Stop",
+    "菜单": "Menu",
+    "音乐": "Music",
+    "后退": "Rewind",
+    "下一个": "Next",
+    "上一个": "Previous",
+    "返回": "Back",
+    "暂停": "Pause",
+    "播放": "Play",
+    "刷新": "Refresh",
+    "场景": "Scene",
+    "声音（蓝）": "Audio (blue)",
+    "开关 (白)": "Switch (white)",
+    "音量 -": "Volume -",
+    "音量 +": "Volume +",
+    "按钮": "Button",
+    "按钮属性": "Button properties",
+    "按钮设置": "Button settings",
+    "取消": "Cancel",
+    "校验位": "Parity",
+    "点击": "On click",
+    "开关（红）": "Switch (red)",
+    "关闭激活块": "Close active block",
+    "关闭非激活块": "Close inactive block",
+    "COM": "COM",
+    "COM口": "COM",
+    "请输入指令": "Enter command",
+    "串口号": "Serial port",
+    "COM ": "COM ",
+    "指令": "Command",
+    "会议摄像头": "Conference camera",
+    "删除": "Delete",
+    "全部删除": "Delete all",
+    "编辑": "Edit",
+    "名称": "Name",
+    "类型": "Type",
+    "确认": "Confirm",
+    "确认导入": "Confirm import",
+    "闭合": "On",
+    "指令不能为空": "Command cannot be empty.",
+    "中控板卡": "Control board",
+    "板卡参数": "Board params",
+    "复制": "Copy",
+    "粘贴失败，面板控件不允许重叠": "Paste failed: Panel controls cannot overlap.",
+    "创建交互": "Create interaction",
+    "自定义": "Custom",
+    "请输入波特率": "Enter baud rate",
+    "控件": "Control",
+    "微软雅黑": "Microsoft YaHei",
+    "清空": "Clear",
+    "存在已被使用的属性，删除会清除按钮相关交互，是否删除？": "Some properties are in use. Deleting them will remove associated button interactions. Continue?",
+    "是否确认删除全部接口配置信息？": "Are you sure you want to delete all interface configurations?",
+    "是否确认删除全部交互配置？": "Are you sure you want to delete all interaction configurations?",
+    "是否确认删除全部控件?": "Are you sure you want to delete all controls?",
+    "该属性已被使用，删除会清除按钮相关交互，是否删除？": "This property is in use. Deleting it will remove associated button interactions. Continue?",
+    "是否确认删除该接口配置信息？": "Are you sure you want to delete this interface configuration?",
+    "删除指令后需重新进行学习，是否删除？": "After deleting the instruction, you need to relearn. Do you want to delete it?",
+    "删除选中项": "Delete selected",
+    "是否确认删除所选元素？": "Are you sure you want to delete the selected element(s)?",
+    "详情": "Detail",
+    "模板": "Template",
+    "0": "0",
+    "1": "1",
+    "1.5": "1.5",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "8": "8",
+    "9": "9",
+    "风向": "Airflow",
+    "自动": "Auto",
+    "频道": "Channel",
+    "关闭": "Off",
+    "冷风": "Cool",
+    "除湿": "Dry",
+    "下降": "Down",
+    "送风": "Fan",
+    "风速": "Fan speed",
+    "对焦方式": "Focus mode",
+    "暖风": "Heat",
+    "梯形矫正": "Keystone correction",
+    "模式": "Mode",
+    "OK": "OK",
+    "开启": "On",
+    "OSD": "OSD",
+    "预置位": "Preset",
+    "回退": "Back",
+    "睡眠": "Sleep",
+    "信号源切换": "Source switching",
+    "速度": "Speed",
+    "温度": "Temp",
+    "定时关闭": "Timer off",
+    "超强": "Turbo",
+    "上升": "Up",
+    "下": "Bottom",
+    "中": "Mid",
+    "扫风": "Swing",
+    "上": "Top",
+    "横向": "Horizontal",
+    "纵向": "Vertical",
+    "断开": "Unconnect",
+    "编辑交互": "Edit interaction",
+    "编辑命令": "Edit command",
+    "请从左侧资源列表拖拽模板、控件至编辑区使用": "Drag templates or controls from Resources on the left to the editing area.",
+    "编辑模式": "Edit mode",
+    "当前位置有重叠元素，请重新编辑": "An element already exists in this position. Please try again.",
+    "电动窗帘": "Motorized curtain",
+    "电平状态": "Electric level status",
+    "电动幕布": "Smart projector screen",
+    "矩形": "Rect",
+    "文本": "Text",
+    "未检测到中控子板，请检查板卡连接状态": "No board is detected. Please check the board connection status",
+    "当前未选中按钮，选中后可设置按钮交互": "No button selected. Select one to configure interactions.",
+    "当前没有指令，点击“+”创建交互指令": "No commands. Click \"+\" to create interaction.",
+    "未配置控件，请进入编辑模式配置控件后使用": "No controls available. Enter edit mode to configure controls before use.",
+    "当前无配置属性数据，请先配置接口属性。": "No properties found. Configure port properties first.",
+    "当前没有红外指令点击“+”创建或导入红外指令 ": "No infrared commands are currently available Click \"+\" to create or import infrared commands ",
+    "暂无内容": "No data available.",
+    "点击上方添加按钮 “+” 创建": "Click the \"+\" button to get started.",
+    "指令格式": "Encoding type",
+    "粘贴失败，面板控件没有可粘贴的区域": "Paste failed: Panel controls have no pastable area.",
+    "偶数": "Even",
+    "每天": "Every day",
+    "执行频率": "Execution frequency",
+    "执行时间": "Execution time",
+    "退出": "Exit",
+    "等比例": "Keep aspect ratio",
+    "无缩放": "No scaling",
+    "拉伸": "Stretch",
+    "颜色填充": "Color fill",
+    "图片填充": "Image fill",
+    "字体列表": "Font list",
+    "每周五": "Every friday",
+    "网关": "Gateway",
+    "是否进入控制模式？": "Do you want to enter the control mode?",
+    "获取完整功能与专业技术支持服务。": "to get complete functions and professional technical support services.",
+    "HEX": "HEX",
+    "请输入HEX指令 (例如: 48 65 6C 6C 6F)": "Enter HEX command (e.g., 48 65 6C 6C 6F)",
+    "高电平": "High level",
+    "命中": "Hit",
+    "如果": "Trigger",
+    "导入": "Import",
+    "IR": "IR",
+    "红外指令列表": "Infrared command list",
+    "交互配置操作失败，请重试": "Interaction configuration failed. Please try again.",
+    "接口协议": "Protocol",
+    "COM口数据不能为空": "COM port data cannot be empty.",
+    "I/O接口": "I/O ",
+    "I/O接口 (输入模式)": "I/O Interface (Input Mode)",
+    "I/O口": "I/O interface",
+    "I/O口 ": "I/O port ",
+    "IR口 ": "IR port ",
+    "学习": "Learn",
+    "离开": "Exit",
+    "控件配置未保存，是否离开？": "Are you sure you want to exit? Your changes to control configurations will be lost.",
+    "左": "Left",
+    "监听": "On listen",
+    "监听到高电平调用": "Listen to high level call",
+    "加载中控数据失败，请检查网络或设备连接": "Failed to load central control data. Please check the network or device connection.",
+    "本地IP地址": "Local IP address",
+    "本地端口号": "Local port",
+    "长按": "Long press",
+    "长期": "Long time",
+    "低电平": "Low level",
+    "Mac地址": "MAC address",
+    "素材": "Resource",
+    "全部导入": "Keep both",
+    "检测到导入素材存在重复项！请选择": "Duplicate resources detected.",
+    "确定": "OK",
+    "跳过重复，仅导入新素材": "Skip duplicates and import new only",
+    "提醒": "Tip",
+    "有 {count} 张与已有素材重复，未导入": "Import skipped. {count} duplicate(s) found.",
+    "{count} 条素材未成功导入": "{count} resource(s) not imported successfully.",
+    "有 {count} 张素材格式不支持（仅支持 png/jpg/jpeg/bmp）": "{count} resource(s) not supported. (Only png, jpg, jpeg, and bmp are supported.)",
+    "浏览器本地存储空间不足，素材列表无法保存；当前素材仍可使用，但刷新页面后可能丢失。请删除部分素材或改用较小的图片。": "Browser storage is full; the material list could not be saved. You can still use materials in this session, but they may be lost after refresh. Remove some materials or use smaller images.",
+    "默认素材": "Built-in materials",
+    "我的素材": "My materials",
+    "减": "Minus",
+    "每周一": "Every monday",
+    "多功能灯": "Smart light",
+    "多选": "Multi-select",
+    "ETHERNET": "ETHERNET",
+    "网口": "ETHERNET",
+    "网络模式": "Network mode",
+    "网口 ": "ETHERNET ",
+    "下次不再提醒": "Never show again",
+    "下一步": "Redo",
+    "该按钮未配置交互指令，请开启编辑模式配置": "No interaction is configured. Enable edit mode to set it up.",
+    "当前没有可粘贴的元素，请先复制元素": "There are no elements available for pasting at the moment. Please copy an element first.",
+    "无": "None",
+    "数据位": "Data bits",
+    "奇数": "Odd",
+    "好的": "OK",
+    "开关（蓝）": "Switch (blue)",
+    "当前位置超出画布，请重新粘贴": "Cannot paste elements outside the canvas. Please rearrange and try again.",
+    "拖拽失败，面板控件不允许重叠": "Drag failed: Panel controls cannot overlap.",
+    "面板属性": "Panel properties",
+    "通过": "By",
+    "激活状态时通过": "When active",
+    "非激活状态时通过": "When inactive",
+    "粘贴": "Paste",
+    "请访问": "Please visit",
+    "加": "Plus",
+    "装饰": "Elements",
+    "卡莱特 LOGO": "Colorlight logo",
+    "深色背景图": "Dark",
+    "深色按钮 (胶囊)": "Dark capsule",
+    "深色按钮 (胶囊)-down": "Dark capsule-down",
+    "深色按钮 (圆)": "Dark circular",
+    "深色按钮 (圆)-down": "Dark circular-down",
+    "深色按钮 (方)": "Dark square",
+    "深色按钮 (方)-down": "Dark square-down",
+    "深色标题": "Dark title",
+    "渐变背景图": "Gradient",
+    "渐变按钮": "Gradient button",
+    "渐变标题": "Gradient title",
+    "浅色背景图": "Light",
+    "浅色按钮底 (圆)": "Light circular base",
+    "浅色按钮底 (圆)-down": "Light circular base-down",
+    "浅色按钮 (胶囊)": "Light capsule",
+    "浅色按钮 (胶囊)-down": "Light capsule-down",
+    "浅色按钮 (方)": "Light square",
+    "浅色按钮 (方)-down": "Light square-down",
+    "浅色标题": "Light title",
+    "透明按钮 (胶囊)": "Transparent capsule",
+    "透明按钮 (胶囊)-down": "Transparent capsule-down",
+    "透明按钮 (圆)": "Transparent circular",
+    "透明按钮 (圆)-down": "Transparent circular-down",
+    "透明按钮 (方)": "Transparent square",
+    "透明按钮 (方)-down": "Transparent square-down",
+    "按下": "Mouse down",
+    "上一步": "Undo",
+    "投影仪": "Projector",
+    "激活状态": "Activated",
+    "激活": "Active",
+    "对齐": "Alignment",
+    "外观": "Style",
+    "自适应": "Adaptive",
+    "本地图片": "Local image",
+    "边框": "Border",
+    "颜色": "Color",
+    "粗细": "Width",
+    "宽度": "Width",
+    "清除": "Clear",
+    "清除已设置的背景图，恢复为背景颜色": "Clear the set background image and revert to background color",
+    "渐变": "Gradient",
+    "单色": "Solid",
+    "设为透明": "Transparent",
+    "无色": "None",
+    "内容": "Content",
+    "圆角": "Rounded corner",
+    "默认": "Default",
+    "方向": "Direction",
+    "填充": "Fill",
+    "填充模式": "Fill mode",
+    "字体": "Font",
+    "字号": "Font size",
+    "常规": "General",
+    "水平对齐": "Horizontal alignment",
+    "图片": "Image",
+    "请选择图片": "Please select an image",
+    "已选图片": "Selected image",
+    "素材图片": "Resource image",
+    "非激活": "Inactive",
+    "加载": "Load",
+    "从素材列表选择一张图片作为按钮背景图": "Select an image from the material list as the button background",
+    "请搜索": "Search",
+    "属性": "Properties",
+    "重置": "Reset",
+    "重置成功": "Reset successful.",
+    "阴影": "Shadow",
+    "显示": "Show",
+    "形状": "Shape",
+    "滑动条": "Slider",
+    "将默认样式同步到激活态": "Copy default style to active state",
+    "同步成功": "Sync successful.",
+    "将设置同步至激活": "Sync settings to active",
+    "将设置同步至默认": "Sync settings to default",
+    "滑块": "Thumb",
+    "滑槽": "Track",
+    "填充段颜色": "Filled segment color",
+    "垂直对齐": "Vertical alignment",
+    "单选": "Single select",
+    "面板": "Panel",
+    "恢复": "Redo",
+    "开断状态": "Connect status",
+    "RELAY": "RELAY",
+    "RELAY Timed": "RELAY Timed",
+    "RELAY口": "RELAY interface",
+    "RELAY口 ": "RELAY port ",
+    "RELAY(定时)": "RELAY(Timed)",
+    "抬起": "Mouse up",
+    "重命名": "Rename",
+    "重复": "Repeat",
+    "资源列表": "Resources",
+    "右": "Right",
+    "每周六": "Every saturday",
+    "保存": "Save",
+    "保存并离开": "Save and exit",
+    "保存失败": "Saving failed.",
+    "保存成功": "Saved successfully.",
+    "请选择": "Please select",
+    "点击或拖拽选择图片": "Click or drag to select images",
+    "已选择 {count} 张图片": "Selected {count} image(s)",
+    "发送": "Send",
+    "服务器IP地址": "Server IP address",
+    "服务器端口号": "Server port",
+    "直角": "Square corner",
+    "滑动条属性": "Slider properties",
+    "声音": "Sound",
+    "静音": "Mute",
+    "开始": "Start",
+    "停止位": "Stop bits",
+    "子网掩码": "Subnet mask",
+    "每周日": "Every sunday",
+    "开关": "Switch",
+    "开关属性": "Switch properties",
+    "系统时间": "System time",
+    "目标IP地址": "Destination IP address",
+    "目标端口号": "Destination port",
+    "TCP Client": "TCP Client",
+    "TCP Server": "TCP Server",
+    "电视机": "Television",
+    "测试": "Test",
+    "文本属性": "Text properties",
+    "就": "Action",
+    "每周四": "Every thursday",
+    "定时": "Timer",
+    "试用时间已到期！": "Your trial has expired.",
+    "触发动作": "Trigger action",
+    "每周二": "Every tuesday",
+    "UDP": "UDP",
+    "撤销": "Undo",
+    "指令调用失败": "Command execution failed.",
+    "指令调用成功": "Command executed successfully.",
+    "UTF-8": "UTF-8",
+    "每周三": "Every wednesday",
+    "未知错误": "Unknown error.",
+    "加密限制": "Encryption restriction",
+    "body数据异常, 请求失败": "Request failed: Invalid request body.",
+    "串口数据指令:“{ command }”发送失败;": "Failed to send serial port command \"{ command }\".",
+    "TCP数据指令:“{ command }”发送失败;": "Failed to send TCP command \"{ command }\".",
+    "UDP数据指令:“{ command }”发送失败;": "Failed to send UDP command \"{ command }\".",
+    "当前串口号无法打开,请检查串口占用状态重新配置": "Unable to open the serial port. Please check if it is in use and reconfigure it.",
+    "UDP配置失败": "UDP configuration failed.",
+    "TCP_Client配置失败,请检查目标服务器状态": "TCP_Client configuration failed. Please check the target server status.",
+    "TCP_Server配置失败,请检查服务器端口占用": "TCP_Server configuration failed. Please check if the server port is in use.",
+    "该名称已存在，请修改名称": "Duplicate SDK name. Please use a different name.",
+    "该配置已被使用，继续删除会删除相关控件绑定，是否继续？": "This configuration is in use. Deleting it will remove associated controls. Continue?",
+    "该配置属性已存在，不可重复配置": "This property already exists and cannot be configured again.",
+    "请求的资源不存在": "Requested resource not found.",
+    "请求超时": "Request timed out.",
+    "服务器内部错误": "Internal server error.",
+    "服务器不支持该功能": "Feature not supported.",
+    "网关错误": "Gateway error.",
+    "服务暂时不可用": "Service temporarily unavailable.",
+    "网关超时": "Gateway timed out.",
+    "请求已取消": "Request canceled.",
+    "关于": "About",
+    "您的账号已被删除，请重新登录": "Account deleted. Please try a different account.",
+    "账号已停用，请联系管理员": "Account disabled. Please contact the administrator.",
+    "添加失败": "Added failed.",
+    "添加成功": "Added successfully.",
+    "高级修缝": "Advanced seam correction",
+    "高级设置": "Advanced",
+    "所有网口输出": "All ports output",
+    "环境温度": "Ambient temperature",
+    "音频管理": "Audio",
+    "设备已恢复备份数据，请重新登录": "Backup restored successfully. Please log in again.",
+    "蓝色": "Blue",
+    "板卡型号": "Board model",
+    "边框颜色": "Border color",
+    "下交换板风扇": "Lower switch board fan",
+    "Universe 控制系统": "Universe control system",
+    "编译时间：": "Built at: ",
+    "相机校正": "Camera calibration",
+    "中央控制": "Central Control",
+    "检查背板...": "Checking back board...",
+    "背板异常": "Checking back board failed",
+    "检查背板超时": "Checking back board timeout",
+    "检查子板...": "Checking sub board...",
+    "子板异常": "Checking sub board failed",
+    "检查子板超时": "Checking sub board timeout",
+    "棋盘格": "Checkerboard",
+    "简体中文": "简体中文",
+    "公司信息": "Company",
+    "配置网络...": "Configuring network...",
+    "配置网络失败": "Configuring network failed",
+    "配置网络超时": "Configuring network timeout",
+    "已连接": "Connected",
+    "已连接未通电": "Connected but not powered on",
+    "连接状态": "Status",
+    "微信扫码咨询客服": "Scan for WeChat support",
+    "控制模式": "Control mode",
+    "当前用户": "Current user",
+    "客服二维码": "Support QR code",
+    "开发者模式": "Developer mode",
+    "是否进入开发者模式？": "Do you want to enable developer mode?",
+    "删除失败": "Deletion failed.",
+    "删除成功": "Deleted successfully.",
+    "探测": "Detect",
+    "设备状态": "Device status",
+    "设备管理": "Device",
+    "设备温度": "Device temperature",
+    "四边是否画边框": "Draw border",
+    "邮箱留言": "Email",
+    "使能": "Enable",
+    "启用相机校正": "Enable camera calibration",
+    "试用已结束，请激活使用": "Your trial has expired. Please activate GrandHub to continue.",
+    "English": "English",
+    "导出系统日志": "Export System Log",
+    "设备已恢复出厂设置，请重新登录": "Factory reset successful. Please log in again.",
+    "失败": "Failed",
+    "设备启动失败，请尝试重新启动或联系技术支持人员": "Device startup failed. Please try restarting or contact technical support.",
+    "原因": "Reason",
+    "风扇": "Fan",
+    "风扇位置": "Fan position",
+    "风扇转速": "Fan speed",
+    "风扇类型": "Fan model",
+    "跟随系统": "Follow system",
+    "禁止": "Disable",
+    "最大化": "Maximize",
+    "绿色": "Green",
+    "帮助": "Help",
+    "高速": "High",
+    "历史颜色": "History Colors",
+    "服务热线": "Phone",
+    "此网站不适用于Internet Explorer，建议您使用其他浏览器": "This website is not supported by Internet Explorer, please use another browser.",
+    "图像区域": "Screen area",
+    "图像显示": "Screen display",
+    "序号": "No.",
+    "输入配置": "Input",
+    "数值无效": "Invalid value",
+    "IP已被修改，重新连接中...": "IP address changed. Reconnecting...",
+    "拼接设置": "Splicing",
+    "初级热点": "Primary hotspot",
+    "语言": "Language",
+    "左前腔风扇": "Left-front fan",
+    "加载参数...": "Loading parameters...",
+    "加载参数失败": "Loading parameters failed",
+    "加载参数超时": "Loading parameters timeout",
+    "加载中": "Loading...",
+    "设备已重启，请重新登录": "Session expired. Please log in again.",
+    "账号已在其它地点登录，如非本人操作，请尽快修改密码": "The account has been logged in in another location, if it is not operated by yourself, please change the password as soon as possible",
+    "低速": "Low",
+    "中速": "Medium",
+    "更多": "More",
+    "更多功能": "More",
+    "否": "No",
+    "沒有可用屏幕": "No screen available.",
+    "无COM数据,请检查服务器COM口": "无COM数据,请检查服务器COM口",
+    "暂无数据": "No data",
+    "不保存": "Discard",
+    "不支持": "Not supported",
+    "此设备不支持相机校对功能": "This device does not support camera calibration.",
+    "外围矩形大小": "Outer rectangle size",
+    "您的密码已被修改，请重新登录": "Your password has been changed. Please log in again.",
+    "电源": "Power",
+    "电源温度": "Power temperature",
+    "预置颜色": "Preset Colors",
+    "预监回显": "PreviewEcho",
+    "设备重连中...": "Reconnecting to network...",
+    "红色": "Red",
+    "刷新失败": "Refresh failed.",
+    "刷新成功": "Refresh successful.",
+    "编译时间": "Built at",
+    "设备启动中，请稍候...": "Device is starting up...",
+    "还原": "Restore",
+    "恢复出厂中...": "Resetting...",
+    "右前腔风扇": "Right-front fan",
+    "保存中...": "Saving...",
+    "屏幕管理": "Screen",
+    "搜索": "Search",
+    "次级热点": "Secondary hotspot",
+    "下发底图...": "Sending background image...",
+    "下发底图失败": "Sending background image failed",
+    "下发底图超时": "Sending background image timeout",
+    "发送卡列序号": "Sending card No.",
+    "下发 FPGA 参数...": "Sending FPGA parameters...",
+    "下发 FPGA 参数失败": "Sending FPGA parameters failed",
+    "下发 FPGA 参数超时": "Sending FPGA parameters timeout",
+    "下发台标...": "Sending station logo...",
+    "下发台标失败": "Sending station logo failed",
+    "下发台标超时": "Sending station logo timeout",
+    "下发 OSD...": "Sending OSD...",
+    "下发 OSD 失败": "Sending OSD failed",
+    "下发 OSD 超时": "Sending OSD timeout",
+    "设置失败": "Setting failed.",
+    "设置成功": "Setting successful.",
+    "GrandHub 剩余试用时间": "GrandHub remaining trial time",
+    "软件模式": "Software mode",
+    "软件版本": "Version",
+    "转速": "Speed",
+    "步长": "Step size",
+    "成功": "Successful",
+    "功率": "Supply",
+    "支持": "Supported",
+    "编译序号": "Build No.",
+    "交换板连接异常，请联系技术支持": "Unable to connect to the switch board. Please contact technical support.",
+    "交换板风扇": "Switch board fan",
+    "登录凭证无效，请重新登录": "Token invalid. Please log in again.",
+    "上交换板风扇": "Upper switch board fan",
+    "未连接": "Not connected",
+    "异常-1": "Abnormal-1",
+    "上传失败": "Upload failed.",
+    "上传成功": "Upload successful.",
+    "大写锁定已打开": "Caps Lock is on.",
+    "用户": "User",
+    "值": "Value",
+    "服务器连接已断开，请重新连接": "The server connection has been disconnected, please reconnect",
+    "公司网址": "Website",
+    "设备连接已断开，请重新登录": "Device disconnection. Please log in again.",
+    "X偏移": "X offset",
+    "Y偏移": "Y offset",
+    "是": "Yes"
+  },
+  "zhConflicts": [
+    {
+      "zh": "闭合",
+      "ens": [
+        "Connect",
+        "On"
+      ],
+      "paths": [
+        "centralControl.connect",
+        "centralControl.relayOpen"
+      ]
+    },
+    {
+      "zh": "创建交互",
+      "ens": [
+        "Create interaction",
+        "Interaction"
+      ],
+      "paths": [
+        "centralControl.create",
+        "centralControl.createInteraction"
+      ]
+    },
+    {
+      "zh": "下",
+      "ens": [
+        "Bottom",
+        "Down"
+      ],
+      "paths": [
+        "centralControl.device_wind_down",
+        "centralControl.down",
+        "global.bottom"
+      ]
+    },
+    {
+      "zh": "上",
+      "ens": [
+        "Top",
+        "Up"
+      ],
+      "paths": [
+        "centralControl.device_wind_up",
+        "centralControl.up",
+        "global.top"
+      ]
+    },
+    {
+      "zh": "断开",
+      "ens": [
+        "Disconnect",
+        "Off",
+        "Unconnect"
+      ],
+      "paths": [
+        "centralControl.disconnect",
+        "centralControl.relayClose",
+        "centralControl.unConnect"
+      ]
+    },
+    {
+      "zh": "高电平",
+      "ens": [
+        "High",
+        "High level"
+      ],
+      "paths": [
+        "centralControl.high",
+        "centralControl.highLevel"
+      ]
+    },
+    {
+      "zh": "低电平",
+      "ens": [
+        "Low",
+        "Low level"
+      ],
+      "paths": [
+        "centralControl.low",
+        "centralControl.lowLevel"
+      ]
+    },
+    {
+      "zh": "保存失败",
+      "ens": [
+        "Save failed.",
+        "Saving failed."
+      ],
+      "paths": [
+        "centralControl.saveFailed",
+        "global.saveFail"
+      ]
+    },
+    {
+      "zh": "保存成功",
+      "ens": [
+        "Save successfully.",
+        "Saved successfully."
+      ],
+      "paths": [
+        "centralControl.saveSuccess",
+        "global.saveSuccess"
+      ]
+    }
+  ]
+}
